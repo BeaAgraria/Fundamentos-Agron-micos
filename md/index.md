@@ -1,6 +1,5 @@
 # Fundamentos Agronómicos
 ## Unidad Didáctica 1: Identificación de especies vegetales
-Iniciaremos????
 ### TAXONOMÍA VEGETAL
 - Concepto
 - Clasificación de las plantas
@@ -24,7 +23,6 @@ Iniciaremos????
 - Transpiración
   
 ## Unidad Didáctica 2: Características del clima y microclima
-Conoceremos???
 ### CLIMA Y MICROCLIMA
 - Tipos de climatología
 - Los climas de España
@@ -51,7 +49,6 @@ Conoceremos???
 - El CO2 y el metano
 
 ## Unidad Didáctica 3: El suelo
-Nos permitira???????
 ### EL SUELO
 - Propiedades
 - Origen y formación
