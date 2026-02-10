@@ -1,2 +1,3 @@
-# Fundamentos-Agron-micos
-Apuntes de Fundamentos Agronómicos
+# Fundamentos-Agronómicos
+Apuntes de Fundamentos Agronómicos para el alumnado de Ciclos Formativos de agraria.
+

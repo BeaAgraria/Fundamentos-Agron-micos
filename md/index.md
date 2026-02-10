@@ -74,5 +74,5 @@ Nos permitira???????
 - TIPOS DE ANÁLISIS DE SUELOS
 
 Para más información o ayuda, contacta a través de:
-- **Correo Electrónico:** [email@example.com](mailto:email@example.com)
-- **GitHub:** [Repositorio del Proyecto](https://github.com/usuario/proyecto)
+- **Correo Electrónico:** [moralesbea@example.com](mailto:email@example.com)
+- **GitHub:** [Repositorio del Proyecto](https://github.com/BeaAgraria/Fundamentos-Agron-micos)
