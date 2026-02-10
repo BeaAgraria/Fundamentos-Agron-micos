@@ -19,5 +19,10 @@ nav:
     - Aparatos de medida de variables Climáticas: FA_UD2_Aparatos.md
     - Mapas Meteorológicos: FA_UD2_Mapas.md
     - Influencias de las actividades agropecuarias en el clima: FA_UD2_Influencia.md
-  - UD 3 El Suelo: index.md
+  - UD 3 El Suelo:
+    - El suelo: FA_UD3_El suelo.md
+    - El perfil del suelo: FA_UD3_Perfil.md
+    - Propiedades Físicas del suelo: FA_UD3_PropFisicas.md
+    - Propiedades Químicas del suelo: FA_UD3_PropGuimicas.md
+    - Análisis de Suelos: FA_UD3_Analisis.md
   - Sobre Nuestro Centro: about.md
