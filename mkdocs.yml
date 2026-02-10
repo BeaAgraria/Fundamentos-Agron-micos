@@ -1,0 +1,17 @@
+site_name: Fundamentos Agronómicos
+docs_dir: "md"
+site_dir: "docs"
+theme: readthedocs
+markdown_extensions:
+  - admonition
+nav:
+  - Inicio: index.md
+  - UD 1 Identificación de las especies vegetales:
+      - Taxonomía Vegetal: FA_UD1_Taxonomía Vegetal.md
+      - Célula Vegetal: FA_UD1_La Célula Vegetal.md
+      - Tejidos Vegetales: FA_UD1_Los Tejidos Vegetales.md
+      - Morfología y Estrucutra de las Plantas: FA_UD1_Morfologia.md
+      - Procesos Fisiológicos: FA_UD1_Los Procesos.md
+  - UD 2 Características del clima y microclima: index.md
+  - UD 3 El Suelo: index.md
+  - Sobre Nuestro Centro: about.md
