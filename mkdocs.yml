@@ -1,7 +1,8 @@
 site_name: Fundamentos Agronómicos
 docs_dir: "md"
 site_dir: "docs"
-theme: readthedocs
+#theme: readthedocs
+theme: mkdocs
 markdown_extensions:
   - admonition
 nav:
@@ -23,6 +24,6 @@ nav:
     - El suelo: FA_UD3_El suelo.md
     - El perfil del suelo: FA_UD3_Perfil.md
     - Propiedades Físicas del suelo: FA_UD3_PropFisicas.md
-    - Propiedades Químicas del suelo: FA_UD3_PropGuimicas.md
+    - Propiedades Químicas del suelo: FA_UD3_PropQuimicas.md
     - Análisis de Suelos: FA_UD3_Analisis.md
   - Sobre Nuestro Centro: about.md
