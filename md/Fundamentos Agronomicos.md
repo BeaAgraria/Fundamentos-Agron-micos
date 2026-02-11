@@ -582,7 +582,7 @@ CARACTERÍSTICAS DEL CLIMA Y MICROCLIMA
 
 ## CLIMA Y MICROCLIMA
 
-Llamamos **clima** al conjunto de condiciones atmosféricas (temperaturas, precipitaciones, humedad, viento…) que predominan en una zona de la Tierra*.*
+Llamamos **clima** al conjunto de condiciones atmosféricas (temperaturas, precipitaciones, humedad, viento…) que predominan en una zona de la Tierra.
 
 Llamamos **microclima** al conjunto de condiciones climáticas que predominan en un determinado lugar por sus características distintas a las de la zona en que se encuentra.
 
@@ -590,23 +590,26 @@ La diferencia entre tiempo y clima es que el **tiempo** es el estado de la atmó
 
 Hay una serie de factores geográficos que definen el clima de cada región, los más importantes son:
 
-- **L****atitud****: la distancia a la que nos encontramos del Ecuador ****terrestre. ****Cuanto más lejos estemos del ecuador más frío hará. Determina las 3 zonas climáticas: ****Zonas frías, templadas y cálidas.**
-
-- **Altitud****: la altura ****de un lugar respecto al nivel del mar. ****Influye en la temperatura, siendo más frías en las zonas altas y en las precipitaciones, siendo más abundan en las zonas altas. ****Conforme subimos en altura la temperatura desciende del orden de 0´6 ****a 1º**** por cada 100 m y las posibilidades de lluvia aumentan porque el aire frío tiene menos capacidad de retener el vapor de agua.**
-
-- **Relieve****: no es lo mismo las zonas de montaña que las zonas de pradera o bosques.**
-
-- **Distancia al mar:**** y la mayor o menor influencia de sus brisas ya que el mar suaviza las temperaturas. ****En invierno el mar da calor a la tierra y en verano refresca la tierra. **
+- **Latitud**: la distancia a la que nos encontramos del Ecuador terrestre. Cuanto más lejos estemos del ecuador más frío hará. Determina las 3 zonas climáticas: Zonas frías, templadas y cálidas.
+- **Altitud**: la altura de un lugar respecto al nivel del mar. Influye en la temperatura, siendo más frías en las zonas altas y en las precipitaciones, siendo más abundan en las zonas altas. Conforme subimos en altura la temperatura desciende del orden de 0´6 a 1º por cada 100 m y las posibilidades de lluvia aumentan porque el aire frío tiene menos capacidad de retener el vapor de agua.
+- **Relieve**: no es lo mismo las zonas de montaña que las zonas de pradera o bosques.
+- **Distancia al mar**: y la mayor o menor influencia de sus brisas ya que el mar suaviza las temperaturas. En invierno el mar da calor a la tierra y en verano refresca la tierra.
 
 
-![image2](./imgFun/UD2_image2.png)
+\Begin{figure}
+\centering
+\subfigure[Altitud]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image2.png}}
+\subfigure[Latitud]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image3.png}}
+\caption{Factores Geográficos}
+\End{figure}
 
-![image3](./imgFun/UD2_image3.png)
 
-
-![image4](./imgFun/UD2_image4.png)
-
-![image5](./imgFun/UD2_image5.png)
+\Begin{figure}
+\centering
+\subfigure[Protección de Montañas]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image4.png}}
+\subfigure[Distancia al mar]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image5.png}}
+\caption{Factores Geográficos}
+\End{figure}
 
 ### Tipos de climatología
 
@@ -614,31 +617,31 @@ Básicamente se distinguen tres tipos de clima: cálido, templado y polar. Es de
 
 En la siguiente clasificación vamos a ver a grandes rasgos los tipos de climas que hay y las características de cada uno. Además, de cada gran tipo de clima hay algunos subtipos mucho más detallados atendiendo a zonas más pequeñas.
 
-- **CLIMAS CÁLIDOS****: **Estos climas se caracterizan por tener altas temperaturas. La media de la temperaturas anuales rondan los 20 grados y apenas ha diferencias muy grandes entre estaciones. Son lugares donde abundan las praderas y selvas con alta humedad ambiental y, en muchos casos, precipitaciones abundantes. Nos encontramos son los subtipos: Ecuatorial, tropical, subtropical árido, desértico y semidesértico.
+- **CLIMAS CÁLIDOS**: Estos climas se caracterizan por tener altas temperaturas. La media de la temperaturas anuales rondan los 20 grados y apenas ha diferencias muy grandes entre estaciones. Son lugares donde abundan las praderas y selvas con alta humedad ambiental y, en muchos casos, precipitaciones abundantes. Nos encontramos son los subtipos: Ecuatorial, tropical, subtropical árido, desértico y semidesértico.
 
-- **CLIMAS ****TEMPLADOS****: **Se caracterizan por tener temperaturas medias que rondan los 15 grados. En estos climas podemos ver las estaciones del año bien diferenciadas. Nos encontramos con lugares repartidos entre las latitudes medias . Tenemos los subtipos siguientes: clima mediterráneo, chino, oceánico y continental.
+- **CLIMAS TEMPLADOS**: Se caracterizan por tener temperaturas medias que rondan los 15 grados. En estos climas podemos ver las estaciones del año bien diferenciadas. Nos encontramos con lugares repartidos entre las latitudes medias . Tenemos los subtipos siguientes: clima mediterráneo, chino, oceánico y continental.
 
-- **CLIMAS ****FRÍOS****: **En estos climas las temperaturas no suelen superar los 10 grados centígrados y hay abundantes precipitaciones en forma de nieve y hielo. Tenemos el clima polar y el clima de alta montaña.
+- **CLIMAS FRÍOS**: En estos climas las temperaturas no suelen superar los 10 grados centígrados y hay abundantes precipitaciones en forma de nieve y hielo. Tenemos el clima polar y el clima de alta montaña.
 
 
-![image6](./imgFun/UD2_image6.png)
+![Zonas climáticas](./imgFun/UD2_image6.png)
 
 ### Los climas de España
 
 España cuenta grandes rasgos con dos tipos de climas: el templado y el subtropical canario,  pero su situación geográfica peculiar entre un océano y un mar y la complejidad orográfica de nuestro relieve complican nuestra condición climática, provocando que cada uno de ellos tenga a su vez variantes climáticas.
 
-- ***Clima oceánico******: Propio de la fachada norte de España, con gran influencia del mar y grandes precipitaciones durante todo el año.***
+- **Clima oceánico**: Propio de la fachada norte de España, con gran influencia del mar y grandes precipitaciones durante todo el año.
 
-- ***Clima continental******: Presenta una temperatura media mayor de 30ºC durante el mes mas cálido y menos de 0ºC durante el mes mas frío.***
+- **Clima continental**: Presenta una temperatura media mayor de 30ºC durante el mes más cálido y menos de 0ºC durante el mes más frío.
 
-- ***Clima mediterráneo:****** son zonas litorales del mediterráneo. Inviernos suaves y veranos cálidos. Pocos días de lluvia al año pero de gran intensidad, concentradas en otoño e invierno.***
+- **Clima mediterráneo**: son zonas litorales del mediterráneo. Inviernos suaves y veranos cálidos. Pocos días de lluvia al año pero de gran intensidad, concentradas en otoño e invierno.
 
-- ***Subtropical******: el clima subtropical canario es muy diferente al resto de España debido a su latitud y a las corrientes de agua fría que atemperan la influencia de las altas temperaturas africanas.***
+- **Subtropical**: el clima subtropical canario es muy diferente al resto de España debido a su latitud y a las corrientes de agua fría que atemperan la influencia de las altas temperaturas africanas.
 
-- ***Clima de montaña******: propias de las altas montañas. Temperaturas e inviernos largos y muy fríos. Precipitación en forma de nieve. Ver******a******nos cortos y calurosos.***
+- **Clima de montaña**: propias de las altas montañas. Temperaturas e inviernos largos y muy fríos. Precipitación en forma de nieve. Veranos cortos y calurosos.
 
 
-![image7](./imgFun/UD2_image7.png)
+![Climas en España](./imgFun/UD2_image7.png){width=50%}
 
 ### Características del clima mediterráneo
 
@@ -666,35 +669,35 @@ La temperatura media es uno de los principales parámetros climáticos. La media
 
 La temperatura ejerce una influencia decisiva en muchos procesos fisiológicos de las plantas como la fotosíntesis, la respiración, etc. Todos estos procesos no se producen cuando la temperatura está por debajo de un valor mínimo o por encima de un valor máximo, si se sobrepasan estos valores pueden producirse daños más o menos graves en distintos órganos del vegetal. En función de cada tipo de planta se puede hablar de:
 
-- ***Temperatura****** ******base ******o umbral ******térmico ******inferior ******o cero de vegetación******:****** es la temperatura a la cual el desarrollo se detiene debido al frío. A medida que la temperatura aumenta por encima de la temperatura base, el desarrollo se acelera hasta que se alcanza la temperatura óptima. ***
+- **Temperatura base o umbral térmico inferior o cero de vegetación**: es la temperatura a la cual el desarrollo se detiene debido al frío. A medida que la temperatura aumenta por encima de la temperatura base, el desarrollo se acelera hasta que se alcanza la temperatura óptima.
 
-- **Temperatura máxima o umbral superior:**** aquella temperatura por encima de cual la planta detiene su desarrollo o este es muy lento. **
+- **Temperatura máxima o umbral superior**: aquella temperatura por encima de cual la planta detiene su desarrollo o este es muy lento. **
 
-- ***Temperaturas óptimas******: son los valores térmicos que aseguran la velocidad potencial de crecimiento máxima. En general, está situado entre los 25 y 28ºC para la gran parte de nuestras plantas, pero puede llegar a los 30ºC para plantas procedentes de zonas más cálidas como el maíz.***
+- **Temperaturas óptimas**: son los valores térmicos que aseguran la velocidad potencial de crecimiento máxima. En general, está situado entre los 25 y 28ºC para la gran parte de nuestras plantas, pero puede llegar a los 30ºC para plantas procedentes de zonas más cálidas como el maíz.
 
-- ***Temperaturas letales******: son las temperaturas más bajas y más elevadas que puede soportar una determina punto de marchitez planta. Así, temperaturas bajas que dejen el suelo cubierto de una capa de hielo impide la respiración de las plantas. Por otro lado, la mayor parte de las plantas cultivadas de la zona templada no resisten temperaturas superiores a los 50ºC.***
+- **Temperaturas letales**: son las temperaturas más bajas y más elevadas que puede soportar una determina punto de marchitez planta. Así, temperaturas bajas que dejen el suelo cubierto de una capa de hielo impide la respiración de las plantas. Por otro lado, la mayor parte de las plantas cultivadas de la zona templada no resisten temperaturas superiores a los 50ºC.
 
-- ***Integral térmica******: es el estudio y cálculo de la relación entre la aparición de las diferentes fases del desarrollo de las plantas y la evolución de las temperaturas. Las temperaturas elevadas hacen que la planta pase más rápidamente por las fases de su desarrollo.***
-
-
-![image8](./imgFun/UD2_image8.png)
+- **Integral térmica**: es el estudio y cálculo de la relación entre la aparición de las diferentes fases del desarrollo de las plantas y la evolución de las temperaturas. Las temperaturas elevadas hacen que la planta pase más rápidamente por las fases de su desarrollo.***
 
 
-![image9](./imgFun/UD2_image9.png)
+![Días de germinación](./imgFun/UD2_image8.png){width=50%}
+
+
+![Temperaturas exigidas](./imgFun/UD2_image9.png){width=50%}
 
 #### TEMPERATURAS ELEVADAS
 
 Por lo general temperaturas superiores a 35-40 ºC suelen ser perjudiciales para la mayoría de las plantas, pero como ya hemos visto eso va estar condicionado por la especie vegetal en cuestión que tendrá una temperatura óptima de crecimiento. Podemos hablar de:
 
-- ***Punto de marchitez***: Si* por el exceso de calor el contenido de humedad del suelo baja progresivamente, las plantas encontrarán cada vez mayores dificultades para absorber agua, llegando a un punto que se iniciarán los procesos de marchitez. Si estos procesos pueden ser recuperables con nuevos aportes de agua, estamos ante una marchitez temporal, y si no hay recuperación decimos que se ha alcanzado el punto de marchitez. *
+- **Punto de marchitez**: Si por el exceso de calor el contenido de humedad del suelo baja progresivamente, las plantas encontrarán cada vez mayores dificultades para absorber agua, llegando a un punto que se iniciarán los procesos de marchitez. Si estos procesos pueden ser recuperables con nuevos aportes de agua, estamos ante una marchitez temporal, y si no hay recuperación decimos que se ha alcanzado el punto de marchitez. *
 
-- ***Golpe de ******calor***: Cuando las temperaturas sufren una subida drástica y en poco tiempo, ocasionan en los vegetales un exceso de transpiración que no es compensado con la absorción de agua por las raíces ni por los mecanismos de ascensión de savia. No llega a provocar marchitez pero sí que ocasiona trastornos importantes en yemas, hojas y frutos en vías de maduración, causando graves pérdidas en la agricultura.
+- **Golpe de calor**: Cuando las temperaturas sufren una subida drástica y en poco tiempo, ocasionan en los vegetales un exceso de transpiración que no es compensado con la absorción de agua por las raíces ni por los mecanismos de ascensión de savia. No llega a provocar marchitez pero sí que ocasiona trastornos importantes en yemas, hojas y frutos en vías de maduración, causando graves pérdidas en la agricultura.
 
-#### **A****CCIÓN DEL FRÍO. EFECTO ESTIMULADOR**
+#### ACCIÓN DEL FRÍO. EFECTO ESTIMULADOR
 
 Hasta ahora hemos planteado que para un crecimiento de las plantas necesitamos que las temperaturas sean altas, pero la acumulación de horas de frío también ayuda a las plantas a salir de su letargo, es como un indicador que tienen un preaviso de cuando pueden empezar a emerger.
 
-- ***Horas-frío:***
+- **Horas-frío**:
 
 La acción del frío se manifiesta sobre los letargos de las yemas o semillas, permitiendo que después de recibir un número de horas de refrigeración o bajas temperaturas puedan brotar o germinar. Las horas de frío se acumulan y después de sumar un número de horas de frío determinado, dependiendo de cada especie, se produce la salida del letargo de las semillas o de los brotes. El frío destruye de ciertas hormonas que inhiben el crecimiento de las plantas.
 
@@ -702,36 +705,29 @@ Las temperaturas que producen el efecto estimulador son normalmente, bajas, pero
 
 En la siguiente tabla podemos apreciar algunas especies:
 
-**Número de horas de frío de árboles frutales**
 
-**FRUTALES DE HOJA CADUCA****	****NÚMERO DE HORAS DE FRIO**
 
-Variedades de Manzano				800 – 1.000 horas
+|**FRUTALES DE HOJA CADUCA** |	**NÚMERO DE HORAS DE FRIO**|
+| :---: | :---: |
+| Variedades de Manzano | 800 – 1.000 horas|
+| Albaricoquero			| 500 – 800 horas |
+| Cerezo-Avellano-Nogal	| 700 horas |
+|Almendro				| 100 – 500 horas|
+Table:Número de horas de frío de árboles frutales
 
-Albaricoquero					500 – 800 horas
-
-Cerezo-Avellano-Nogal				700 horas
-
-Almendro					100 – 500 horas
-
-#### **B****AJAS TEMPERATURAS. HELADAS.**
+#### BAJAS TEMPERATURAS. HELADAS.
 
 Consideramos bajas temperaturas aquellas que se encuentran por debajo del óptimo de actividad de la planta dependiendo del estado fisiológico en que se encuentre.
 
 Los efectos más perjudiciales de las bajas temperaturas son:
 
-- **Reducción de la actividad metabólica de las plantas****, al reducirse la temperatura disminuye la energía calórica lo que produce un ralentizamiento de las reacciones bioquímicas en la planta. Esta disminución de velocidad influye en la fotosíntesis, la respiración, la absorción de nutrientes, etc.**
-
-- **La formación de cristales de hielo**** por la solidificación del agua, produce daños en los órganos y tejidos celulares ****ya que l****as plantas como la mayoría de los seres vivos tienen un alto contenido de agua en su composición: **
-
-- Se pueden romper las membranas de las células de las plantas por la formación de hielo.
-
-- Si se produce una repentina subida de temperatura después de una helada, se puede producir una gran evaporación de agua hacia la atmósfera, que hace deshidratarse a las células.
+- **Reducción de la actividad metabólica de las plantas**, al reducirse la temperatura disminuye la energía calórica lo que produce un ralentizamiento de las reacciones bioquímicas en la planta. Esta disminución de velocidad influye en la fotosíntesis, la respiración, la absorción de nutrientes, etc.
+- **La formación de cristales de hielo** por la solidificación del agua, produce daños en los órganos y tejidos celulares ya que las plantas como la mayoría de los seres vivos tienen un alto contenido de agua en su composición:
+  - Se pueden romper las membranas de las células de las plantas por la formación de hielo.
+  - Si se produce una repentina subida de temperatura después de una helada, se puede producir una gran evaporación de agua hacia la atmósfera, que hace deshidratarse a las células.
 
 
-![image10](./imgFun/UD2_image10.png)
-
-***                                                                              Helada en floración de ciruelos***
+![Helada en floración de ciruelos](./imgFun/UD2_image10.png)
 
 ### Presión
 
@@ -739,13 +735,13 @@ Otro elemento determinantes para determinar la climatología de una zona es la p
 
 - **La altura**: la presión disminuye a medida que aumenta la altitud. En igualdad de condiciones habrá más presión en las partes bajas de una montaña que en las altas.
 
-- **La temperatura****: ****la distinta distribución de las radiaciones solares provoca un calentamiento zonal de la superficie terrestre con variaciones de presión. **
+- **La temperatura**: la distinta distribución de las radiaciones solares provoca un calentamiento zonal de la superficie terrestre con variaciones de presión.
 
 ¿Y por qué influye la presión sobre el clima? Pues porque las diferencias de presión atmosférica entre distintos puntos de la corteza terrestre hacen que el aire se desplace de un lugar a otro, originando los vientos.
 
 La presión atmosférica a nivel del mar (altitud 0) es de 1.013 mb. Las zonas donde la presión es superior a esta cifra las denominaremos zonas de altas presiones, y en ellas se dan los climas secos y las zonas donde las presiones son inferiores, serán zonas de bajas presiones con climas húmedos.
 
-Si unimos los puntos de igual presión en un mapa por medio de una línea (isobaras), tendremos una representación de las presiones atmosféricas de una zona, son los “campos de presiones”. En estos mapas las zonas con más bajas presiones se representan con una (B) y las llamamos depresiones o borrascas y las zonas de altas presiones las representamos con una (A) y las llamamos anticiclones.
+Si unimos los puntos de igual presión en un mapa por medio de una línea (isobaras), tendremos una representación de las presiones atmosféricas de una zona, son los "campos de presiones". En estos mapas las zonas con más bajas presiones se representan con una (B) y las llamamos depresiones o borrascas y las zonas de altas presiones las representamos con una (A) y las llamamos anticiclones.
 
 Las borrascas están formadas por masa de aire frío y los anticiclones por masa de aire caliente, la alternancia de borrascas y anticiclones nos marcan los distintos tipos de tiempo. El descenso de la presión es síntoma de mal tiempo y el ascenso de tiempo despejado.
 
@@ -773,15 +769,15 @@ Para simplificar un poco diremos que la mayoría de las nubes tienen su origen e
 
 La mayoría de los nombres de nubes contienen prefijos y sufijos latinos que, al combinarse, dan una indicación del tipo de nube. Algunos de ellos son los siguientes:
 
-- Stratus/estrato: alargado, allanado y nivelado. Nubes estratificadas.
+- **Stratus/estrato**: alargado, allanado y nivelado. Nubes estratificadas.
 
-- Cumulus/cúmulos: montón, colmo. Nubes de desarrollo vertical.
+- **Cumulus/cúmulos**: montón, colmo. Nubes de desarrollo vertical.
 
-- Cirrus/cirro: plumoso, fleco. Nubes de cristales de hielo.
+- **Cirrus/cirro**: plumoso, fleco. Nubes de cristales de hielo.
 
-- Nimbus/nimbo: portador de lluvia, capaces de formar precipitaciones
+- **Nimbus/nimbo**: portador de lluvia, capaces de formar precipitaciones
 
-- Alto: nivel medio
+- **Alto**: nivel medio
 
 Las nubes altas suelen formarse por encina de los 5.000 metros; las nubes medias se suelen formar entre los 2.000 y los 7.000 metros; y las nubes bajas suelen formarse a una altura máxima de 2.000 metros.
 
@@ -792,16 +788,16 @@ La Organización Meteorológica Mundial clasifica las nubes en diez tipos princi
 Nubes separadas, en forma de filamentos blancos y delicados, de aspecto fibroso o sedoso, o ambas cosas a la vez, formadas por cristales de hielo, que le dan su peculiar aspecto. Cuando se presentan aislados son síntoma de buen tiempo, pero si avanzan organizados y aumentando progresivamente indican un cambio inminente del tiempo: algún frente o borrasca se aproxima.
 
 
-![image11](./imgFun/UD2_image11.png)
+![Cirros](./imgFun/UD2_image11.png){width=50%}
 
 #### CIRROCÚMULOS
 
-Capa delgada de nubes blancas, sin sombras propias, compuesto de elementos muy pequeños en forma de gránulos, mezclados o separados, dispuestos más o menos regularmente (a veces según bandas que cruzan el cielo, dándole aspecto de “cielo aborregado”).
+Capa delgada de nubes blancas, sin sombras propias, compuesto de elementos muy pequeños en forma de gránulos, mezclados o separados, dispuestos más o menos regularmente (a veces según bandas que cruzan el cielo, dándole aspecto de "cielo aborregado").
 
 Salvo si aumentan considerablemente con el paso del tiempo, no suelen indicar cambio de tiempo. Otras veces aparecen asociados a corrientes en chorro a gran altura.
 
 
-![image12](./imgFun/UD2_image12.png)
+![Cirrocúmulos](./imgFun/UD2_image12.png){width=50}
 
 #### CIRROSTRATOS
 
@@ -810,7 +806,7 @@ Género de nubes en forma de velo blanquecino y transparente, de estructura fibr
 Los cirrostratos suelen anunciar cambios, se acerca un frente cálido y aumentan su espesor según este avanza.
 
 
-![image13](./imgFun/UD2_image13.png)
+![Cirrostratos](./imgFun/UD2_image13.png){width=50%}
 
 #### ALTOCÚMULOS
 
@@ -819,7 +815,7 @@ Capa de nubes blancas o grises, o de ambas tonalidades a la vez, con sombras pro
 Los altocúmulos aislados son indicadores de buen tiempo. Cuando van en aumento o mezclados con altostratos indican la proximidad de un frente o una borrasca, y en tales casos pueden desprender precipitaciones débiles.
 
 
-![image14](./imgFun/UD2_image14.png)
+![Altocúmulos](./imgFun/UD2_image14.png){width=50%}
 
 #### ALTOSTRATOS
 
@@ -828,14 +824,14 @@ Capa nubosa, grisácea o azulada, con aspecto estriado, que cubre el cielo total
 Están asociados a frentes cálidos y suelen dejar lluvias débiles continuas.
 
 
-![image15](./imgFun/UD2_image15.png)
+![Altostratos](./imgFun/UD2_image15.png){width=50%}
 
 #### NIMBOSTRATOS
 
 Nubes densas de color gris oscuro, cuyo aspecto se hace difuso por la caída de precipitación. El notable espesor en todas sus partes oculta la visión del Sol. Están asociados a los frentes cálidos y suelen ocasionar lluvias continuas.
 
 
-![image16](./imgFun/UD2_image16.png)
+![Nimbostratos](./imgFun/UD2_image16.png){width=50$}
 
 #### ESTRATOCÚMULOS
 
@@ -844,7 +840,7 @@ Manto de nubes grises o blancas, o de ambos colores a la vez, que tienen casi si
 No indican cambios de tiempo y se asocian al buen tiempo cuando en verano aparecen a media tarde.
 
 
-![image17](./imgFun/UD2_image17.png)
+![Estratocúmulos](./imgFun/UD2_image17.png){width=50%}
 
 #### ESTRATOS
 
@@ -853,7 +849,7 @@ Capa nubosa gris y uniforme, sin forma particular, ni estructura, que por lo gen
 Cuando producen nieblas suelen estar asociados a tiempo anticiclónico. Si aparecen debajo de los altostratos o nimbostratos se asocian a un frente cálido y pueden dejar lloviznas.
 
 
-![image18](./imgFun/UD2_image18.png)
+![Estratos](./imgFun/UD2_image18.png){width=50%}
 
 #### CÚMULOS
 
@@ -862,7 +858,7 @@ Nubes aisladas, por lo general densas, y de contornos bien delimitados, que se d
 Los cúmulos corresponden al buen tiempo cuando hay poca humedad ambiental y poco movimiento vertical del aire. En el caso de existir una alta humedad y fuertes corrientes ascendentes, los cúmulos pueden adquirir un gran tamaño llegando a originar tormentas y aguaceros intensos.
 
 
-![image19](./imgFun/UD2_image19.png)
+![Cúmulos](./imgFun/UD2_image19.png){width=50%}
 
 #### CUMULONIMBOS
 
@@ -870,12 +866,10 @@ Nubes densas y grandes, de gran desarrollo vertical, en forma de torres gigantes
 
 Producen casi siempre tormenta con precipitaciones en forma de lluvia o granizo.
 
+![Cumulonimbos](./imgFun/UD2_image20.png){width=50%}
 
 
-![image20](./imgFun/UD2_image20.png)
-
-
-![image21](./imgFun/UD2_image21.png)
+![Nubes](./imgFun/UD2_image21.png)
 
 ### Precipitaciones
 
@@ -883,23 +877,24 @@ Las nubes están formadas por pequeñas gotas microscópicas. La mayoría de las
 
 Tipos de precipitación más característicos son:
 
-- **Llovizna****: también conocida como orballo, sirimiri o calabobos. Está formada por numerosas y finas gotas de agua de diámetro inferior a medio milímetro. La velocidad de caída es tan lenta que parecen flotar en el aire. Proceden típicamente de las nubes tipo estratos.**
+- **Llovizna**: también conocida como orballo, sirimiri o calabobos. Está formada por numerosas y finas gotas de agua de diámetro inferior a medio milímetro. La velocidad de caída es tan lenta que parecen flotar en el aire. Proceden típicamente de las nubes tipo estratos.
 
-- **Lluvia****: es la forma más común de precipitación. Las gotas tienen un diámetro de más de medio milímetro y caen con velocidad moderada. Procede casi siempre de los nimboestratos y altoestratos.**
+- **Lluvia**: es la forma más común de precipitación. Las gotas tienen un diámetro de más de medio milímetro y caen con velocidad moderada. Procede casi siempre de los nimboestratos y altoestratos.
 
-- **Chubascos****: pueden ocasionar tormentas. Las gotas de agua son grandes. La precipitación es intensa, discontinua y ocasional. Si es torrencial puede provocar grandes inundaciones. Los chubascos pueden ser de nieve si la temperatura es inferior a cero grados. La únicas nubes que los producen so****n**** los cumuloninmbos. **
+- **Chubascos**: pueden ocasionar tormentas. Las gotas de agua son grandes. La precipitación es intensa, discontinua y ocasional. Si es torrencial puede provocar grandes inundaciones. Los chubascos pueden ser de nieve si la temperatura es inferior a cero grados. La únicas nubes que los producen son los cumuloninmbos. 
 
-- **Nieve****: está formada por conglomerados de cristales de hielo en su mayor parte ramificados (a veces con forma de estrellitas hexagonales) que se sueldan formando copos. Cuando la nieve se funde ligeramente, se habla también de aguanieve.**
+- **Nieve**: está formada por conglomerados de cristales de hielo en su mayor parte ramificados (a veces con forma de estrellitas hexagonales) que se sueldan formando copos. Cuando la nieve se funde ligeramente, se habla también de aguanieve.
 
-- **Granizo****: son granos de hielo redondeados y translúcidos. El diámetro varía entre 5 y 50 milímetros y caen, al igual que los chubascos, en un corto período de tiempo. Sólo los producen los cumulonimbos.**
-
-
-![image22](./imgFun/UD2_image22.png)
-
-![image23](./imgFun/UD2_image23.png)
+- **Granizo**: son granos de hielo redondeados y translúcidos. El diámetro varía entre 5 y 50 milímetros y caen, al igual que los chubascos, en un corto período de tiempo. Sólo los producen los cumulonimbos.
 
 
-![image24](./imgFun/UD2_image24.png)
+\Begin{figure}
+\centering
+\subfigure[Granizo]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image22.png}}
+\subfigure[Chubascos]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image23.png}}
+\subfigure[Nieve]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image24.png}}
+\caption{Precipitaciones}
+\End{figure}
 
 ### Viento
 
@@ -909,27 +904,21 @@ El viento es la circulación del aire de un lugar a otro, con más o menos fuerz
 
 Debido a la situación y la orografía hablamos de vientos regionales, como por ejemplo:
 
-- **Ábrego****: viento templado y húmedo del suroeste en ambas Castillas, Extremadura y Andalucía con temporal persistente de lluvia. En Cantabria es conocido como viento castellano, mientras que en Asturias se denomina aire de las castañas, ya que cuando sopla con fuerza provoca la caída de este fruto.**
+- **Ábrego**: viento templado y húmedo del suroeste en ambas Castillas, Extremadura y Andalucía con temporal persistente de lluvia. En Cantabria es conocido como viento castellano, mientras que en Asturias se denomina aire de las castañas, ya que cuando sopla con fuerza provoca la caída de este fruto.
+- **Bochorno**: viento del sureste y procedencia mediterránea, que entra por la desembocadura del Ebro y sube río arriba. Es un viento seco, cálido y agobiante en verano; suave, templado y húmedo durante otoño y primavera.
+- **Cierzo o mistral**: viento frío y seco del noroeste, de esos que penetran los huesos, y que sopla con frecuencia en el Valle del Ebro.**
+- **Galerna**: viento con un salto brusco del suroeste al noroeste que se presenta en el Golfo de Vizcaya y Costa Cantábrica, con intenso temporal en el mar.
+- **Gallego**: viento del noroeste en el Duero que sopla frío y racheado.
+- **Levante**: posiblemente sea el que más nos suene. Es un viento del este que sopla en la costa mediterránea española. El origen del viento de levante está en el Mediterráneo central, en zonas cercanas a las islas Baleares. Alcanza su mayor velocidad en el Estrecho de Gibraltar, donde deja lluvias en la vertiente este de las sierras gaditanas, antes de bajar muy seco, ya descargado de humedad, y con altas temperaturas a lo largo de la vertiente oeste.**
+- **Llebeig**: viento del suroeste que sopla en las costas del sur Mediterráneo y trae normalmente polvo en suspensión procedente del Sáhara. Su aparición se asocia a la llegada de tormentas y lluvias.**
 
-- **Bochorno****: viento del sureste y procedencia mediterránea, que entra por la desembocadura del Ebro y sube río arriba. Es un viento seco, cálido y agobiante en verano; suave, templado y húmedo durante otoño y primavera.**
+- **Poniente**: viento del oeste húmedo y templado que entra por las costas portuguesas y arrastra las borrascas atlánticas, con sus sistemas nubosos, hacia el interior de la Península. A medida que avanza va perdiendo humedad y aumentando de temperatura, llegando finalmente a la costa levantina como un viento seco y cargado de calor.
 
-- **Cierzo ****o mistral****: viento frío y seco del noroeste, de esos que penetran los huesos, y que sopla con frecuencia en el Valle del Ebro.**
+- **Siroco(Xaloc)**: este viento del sureste afecta a Valencia, Cataluña y Baleares. Es muy cálido y suele arrastrar calima del Sáhara.
 
-- **Galerna****: viento con un salto brusco del suroeste al noroeste que se presenta en el Golfo de Vizcaya y Costa Cantábrica, con intenso temporal en el mar.**
+- **Tramontana**: viento frío y turbulento de componente norte, que sopla especialmente en la comarca del Ampurdán (nordeste de Cataluña) y en las islas Baleares. En ocasiones puede llegar a alcanzar velocidades próximas a los 200 km/h.
 
-- **Gallego****: viento del noroeste en el Duero que sopla frío y racheado.**
-
-- **Levante****: posiblemente sea el que más nos suene. Es un viento del este que sopla en la costa mediterránea española. El origen del viento de levante está en el Mediterráneo central, en zonas cercanas a las islas Baleares. Alcanza su mayor velocidad en el Estrecho de Gibraltar, donde deja lluvias en la vertiente este de las sierras gaditanas, antes de bajar muy seco, ya descargado de humedad, y con altas temperaturas a lo largo de la vertiente oeste.**
-
-- **L****lebeig****:**** viento del suroeste que sopla en las costas del sur Mediterráneo y trae normalmente polvo en suspensión procedente del Sáhara. Su aparición se asocia a la llegada de tormentas y lluvias.**
-
-- **Poniente****: viento del oeste húmedo y templado que entra por las costas portuguesas y arrastra las borrascas atlánticas, con sus sistemas nubosos, hacia el interior de la Península. A medida que avanza va perdiendo humedad y aumentando de temperatura, llegando finalmente a la costa levantina como un viento seco y cargado de calor.**
-
-- **Siroco****(Xaloc)****: ****e****ste viento del sureste afecta a Valencia, Cataluña y Baleares. Es muy cálido y suele arrastrar calima del Sáhara.**
-
-- **Tramontana****: viento frío y turbulento de componente norte, que sopla especialmente en la comarca del Ampurdán (nordeste de Cataluña) y en las islas Baleares. En ocasiones puede llegar a alcanzar velocidades próximas a los 200 km/h.**
-
-- **Gregal****: Viento frío y seco de compon****ente noreste característico de las islas Baleares.**
+- **Gregal**: Viento frío y seco de componente noreste característico de las islas Baleares.
 
 Llamamos **viento dominante** a los vientos que soplan con mayor frecuencia en una zona. Sobre la velocidad del viento a lo largo del día, por lo general, el viento es más fuerte de día y más flojo durante la noche. Presenta una máxima velocidad durante las primeras horas de la tarde, y el mínimo a la salida del sol, el viento esta en mayor calma por la noche que durante el día, a la salida del sol. Esto es así en alturas inferiores a 1.000 m, sobre colinas y montañas que se producen otros efectos.
 
@@ -941,41 +930,42 @@ En agricultura los problemas asociados al viento son, entre otros, la pérdida d
 
 Para medir la cantidad la **temperatura** se utiliza el termómetro. El termómetro más conocido es el de mercurio que basa su funcionamiento en la contracción y expansión que experimente el mercurio encerrado en un tubo de cristal calibrado, los termómetros de máxima y de mínima dejan marcados los puntos de temperatura más alta y más baja durante cualquier periodo. Aunque en la actualidad la mayoría de los termómetros son de uso digital, los más utilizados en Agricultura son los termómetros de infrarrojos que constan de un sensor que se pone en contacto con la superficie del cuerpo que queramos registrar la temperatura, bien sea el suelo o partes del vegetal. La temperatura del aire se suele medir en grados centígrados.
 
-*	Termómetro de max y min			termómetro digital		**T**ermómetro infrarrojos*
 
+\Begin{figure}
+\centering
+\subfigure[Termómetro de max y min]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image25.png}}
+\subfigure[termómetro digital]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image26.png}}
+\subfigure[Termómetro infrarrojos]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image27.png}}
+\caption{Termómetros}
+\End{figure}
 
-![image25](./imgFun/UD2_image25.png)
-
-![image26](./imgFun/UD2_image26.png)
-
-![image27](./imgFun/UD2_image27.png)
 
 ### Barómetro
 
 Para medir la **presión** utilizamos el barómetro. Hay dos tipos: los de mercurio y los aneroides.
 
+\Begin{figure}
+\centering
+\subfigure[Barómetro de mercurio]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image28.png}}
+\subfigure[Barómetro aneroide]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image29.png}}
+\subfigure[Barómetro aneroide]{\includegraphics[width=0.3\linewidth]{./imgFun/UD2_image30.png}}
+\caption{Barómetro}
+\End{figure}
 
-![image28](./imgFun/UD2_image28.png)
-
-![image29](./imgFun/UD2_image29.png)
-
-![image30](./imgFun/UD2_image30.png)
-
-*	Barómetro d**e** mercurio						**Barómetro aneroide*
 
 ### Higrómetro
 
 Para medir la **humedad** se utiliza un instrumento llamado higrómetro. Actualmente se utiliza el higrómetro digital. Este modelo realiza los cálculos a través de circuitos electrónico con los cuales se logra expresar en números las pequeñas alteraciones de tensión que son producidas por la variación de algunas propiedades físicas, mediciones que se pueden observar en la pantalla.
 
 
-![image31](./imgFun/UD2_image31.png)
+![Higrómetro](./imgFun/UD2_image31.png)
 
 ### Pluviómetro
 
 Para medir las precipitaciones se usa el pluviómetro, hay muchísimos tipos de pluviómetros pero básicamente todos utilizan el mismo sistema, es un recipiente de forma cilíndrica graduado y que recoge el agua de lluvia caída.
 
 
-![image32](./imgFun/UD2_image32.png)
+![Pluviómetro](./imgFun/UD2_image32.png){width=50%}
 
 ### Anemómetro y veleta
 
@@ -983,27 +973,27 @@ La velocidad del viento se mide con un anemómetro y la dirección del viento co
 
 El anemómetro es un aparato que juega un rol importante dentro del área de la meteorología, permitiendo medir la intensidad del viento. Los más comunes se componen de un sistema de pequeñas aspas y en sus extremos pequeñas cuencas las cuales se les permite oscilar, cuando el viento sopla esta gira y de esta forma arroja los resultados en el dispositivo. La veleta es un dispositivo giratorio que consta de un placa que gira libremente, un señalador que indica la dirección del viento y una cruz horizontal que indica los puntos cardinales.
 
-
-
-![image33](./imgFun/UD2_image33.png)
-
-
-
-![image34](./imgFun/UD2_image34.png)
+\Begin{figure}
+\centering
+\subfigure[Veleta]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image33.png}}
+\subfigure[Anemómetro]{\includegraphics[width=0.4\linewidth]{./imgFun/UD2_image34.png}}
+\caption{Anemómetro y veletas}
+\End{figure}
 
 Las distintas escala s de viento dependiendo de la velocidad son:
 
-**			****E****SCALA DE VIENTO**
 
-Calma		Temblor de hojas- ramas pequeñas se agitan.	6 – 20 Km/h
+----------  --------------------------------------------- --------------
+Calma		Temblor de hojas- ramas pequeñas se agitan.	  6 – 20 Km/h
 
-Moderado	Las ramas grandes se mueven.			21 – 40 Km/h
+Moderado	Las ramas grandes se mueven.			      21 – 40 Km/h
 
-Fuerte		Los árboles se agitan.				41 – 70 Km/h
+Fuerte		Los árboles se agitan.				          41 – 70 Km/h
 
-Muy fuerte	Ramas arrancadas,- árboles arrancados.		71 – 120 Km/h
+Muy fuerte	Ramas arrancadas,- árboles arrancados.		  71 – 120 Km/h
 
-Huracanado	Árboles arrancados, destrucción instalaciones	> 120 Km/h
+Huracanado	Árboles arrancados, destrucción instalaciones > 120 Km/h
+----------  --------------------------------------------- ---------------
 
 ### Estaciones meteorológicas
 
@@ -1016,53 +1006,50 @@ En una estación tipo tenemos tres elementos básicos: veleta y anemómetro para
 Se recomienda que las garitas sean de madera, bien ventiladas, pintadas e blanco y esmaltadas para reflejar la radicación. El techo debe tener inclinación para escurrir el agua de la lluvia y la nieve y ha de ser doble, con circulación del aire entre ambos para evitar el calentamiento del aire cuando la radicación sea muy intensa. La puerta debe estar orientada al norte, para evitar que los rayos del sol toquen los instrumentos cuando realizamos las observaciones.
 
 
-![image35](./imgFun/UD2_image35.png)
+![Estación meteorológica](./imgFun/UD2_image35.png){width=50%}
 
 
-![image36](./imgFun/UD2_image36.png)
+![Estación meteorológica](./imgFun/UD2_image36.png){width=50%}
 
 ## MAPAS METEOROLÓGICOS
 
-Las previsiones del tiempo se logran a a través de:
+Las previsiones del tiempo se logran a través de:
 
-- **Recogida de datos en el planeta****: Alrededor de 10.000 estaciones meteorológicas en la Tierra, dividiéndose en globos sondas, embarcaciones y aviones de línea regular, boyas oceanográficas, satélites, etc.**
-
-- **Modelo****: Potente programa informático que analiza profundamente todas las mediciones. Es capaz de generar mapas de temperatura, lluvia, presión, humedad.**
-
-- **Predictores****: Interpretación de los datos recogidos y los valores del modelo.**
+- **Recogida de datos en el planeta**: Alrededor de 10.000 estaciones meteorológicas en la Tierra, dividiéndose en globos sondas, embarcaciones y aviones de línea regular, boyas oceanográficas, satélites, etc.**
+- **Modelo**: Potente programa informático que analiza profundamente todas las mediciones. Es capaz de generar mapas de temperatura, lluvia, presión, humedad.
+- **Predictores**: Interpretación de los datos recogidos y los valores del modelo.
 
 La predicción clásica no ofrece resultados fiables más allá de los 7 u 8 días. En plazos mayores se utiliza la previsión estacional que estima la tendencia en periodos lluviosos, calurosos o secos. Los mares anormalmente cálidos acaban produciendo lluvia sobre los continentes próximos, las grandes masas oceánicas tienen mucha más inercia térmica que la atmosfera siendo previsibles con varios meses de antelación. En la práctica se utilizan modelos climáticos que simulan a la vez el océano, atmósfera y los intercambios entre ambos.
 
 **INTERPRETACIÓN DE MAPAS METEOROLÓGICOS:**
 
-En un mapa del tiempo deberíamos aprender a interpretar la presión atmosférica, los vientos dirección e intensidad, la posición de los frentes, en fin saber si vamos a tener “buen tiempo ó mal tiempo”, según las necesidades de nuestro trabajo.
+En un mapa del tiempo deberíamos aprender a interpretar la presión atmosférica, los vientos dirección e intensidad, la posición de los frentes, en fin saber si vamos a tener "buen tiempo ó mal tiempo", según las necesidades de nuestro trabajo.
 
 Los mapas meteorológicos han sufrido una larga variación a lo largo de la historia, desde simples representaciones en dibujos a los actuales que se realizan con potentes ordenadores donde se hacen recreaciones de posible tiempo a venir tienen una simbología determinada para que puedan ser interpretados uniformemente. Vamos a ver unas pequeñas pautas por si queremos interpretar un mapa del tiempo. Los datos que aparecen en un mapa meteorológico típico son:
 
-- ***El viento*****:** Se desplaza desde zonas de alta presión a zonas de baja presión. La flecha con la que suele representar suele indicar la dirección desde donde sopla y la intensidad se muestra con el número de rayitas perpendiculares
+- **El viento**: Se desplaza desde zonas de alta presión a zonas de baja presión. La flecha con la que suele representar suele indicar la dirección desde donde sopla y la intensidad se muestra con el número de rayitas perpendiculares
 
-![image37](./imgFun/UD2_image37.png)
+![Viento](./imgFun/UD2_image37.png){width=50%}
 
-- ***Presión atmosférica******:****** Las ******isobaras****** son las líneas que aparecen en los mapas meteorológicos, uniendo los puntos de igual presión, como líneas de contorno de las áreas de alta y baja presión. Es interesante saber que cuanto más cercanas están las isobaras, más intenso es el viento. Baja presión, significa temporal, mal tiempo y lluvia, en los mapas de isobaras veremos la B de Bajas Presiones, lo que podremos asociar intuitivamente a B de Borrasca. Altas presiones, buen tiempo y ausencia de nubes, relacionaremos la A que aparece en la línea del tiempo con lo que se podrá asociar igualmente a A Anticiclón.***
-
-
-![image38](./imgFun/UD2_image38.png)
-
-- ***Áreas de alta y baja presión******:****** Designadas simplemente con una A azul o una B roja en mayúsculas grandes. ***
-
-- ***Temperatura******: A menudo se incluye la temperatura en la superficie, las cifras que indican suelen corresponderse con la máxima y mínima.***
+- **Presión atmosférica**: Las isobaras son las líneas que aparecen en los mapas meteorológicos, uniendo los puntos de igual presión, como líneas de contorno de las áreas de alta y baja presión. Es interesante saber que cuanto más cercanas están las isobaras, más intenso es el viento. Baja presión, significa temporal, mal tiempo y lluvia, en los mapas de isobaras veremos la B de Bajas Presiones, lo que podremos asociar intuitivamente a B de Borrasca. Altas presiones, buen tiempo y ausencia de nubes, relacionaremos la A que aparece en la línea del tiempo con lo que se podrá asociar igualmente a A Anticiclón.
 
 
-![image39](./imgFun/UD2_image39.png)
+![Mapa de isobaras](./imgFun/UD2_image38.png){width=50%}
 
-- ***Nubosidad******: Se relaciona con la presencia de nubes o no. Como ya se ha indicado cada medio de comunicación utiliza un icono para realizar la representación gráfica de las siguientes características: Soleado, parcialmente soleado, parcialmente nublado, nublado y cubierto (la escala puede ser mayor mayormente soleado, mayormente nublado, etc.).***
+- **Áreas de alta y baja presión**: Designadas simplemente con una A azul o una B roja en mayúsculas grandes.
 
-- ***Áreas de precipitación******: Hay un símbolo convencional, que es la que generalmente se usa, para cada tipo de precipitación: lluvia, llovizna, nieve, niebla, chubasco y tormenta eléctrica. Sitúan el símbolo sobre la zona geográfica donde se prevea.***
+- **Temperatura**: A menudo se incluye la temperatura en la superficie, las cifras que indican suelen corresponderse con la máxima y mínima.
 
-- ***Frentes******: Los frentes fríos, son masas de aire frio, aparecen como una línea azul gruesa con flechas (triángulos) delante de ellos, indicando de ese modo la dirección en la que se mueve. Los frentes cálidos, son masas de aire caliente, son representados con una línea roja gruesa, con semicírculos a lo largo del borde que avanza, indicando el sentido en el que se desplaza. Los frentes estacionarios se representan con una línea que alterna semicírculos rojos de un lado y triángulos azules del otro y los frentes ocluidos aparecen como líneas que alternan triángulos azules y semicírculos rojos del mismo lado de la línea.***
+![TEmperatura](./imgFun/UD2_image39.png){width=50%}
+
+- **Nubosidad**: Se relaciona con la presencia de nubes o no. Como ya se ha indicado cada medio de comunicación utiliza un icono para realizar la representación gráfica de las siguientes características: Soleado, parcialmente soleado, parcialmente nublado, nublado y cubierto (la escala puede ser mayor mayormente soleado, mayormente nublado, etc.).
+
+- **Áreas de precipitación**: Hay un símbolo convencional, que es la que generalmente se usa, para cada tipo de precipitación: lluvia, llovizna, nieve, niebla, chubasco y tormenta eléctrica. Sitúan el símbolo sobre la zona geográfica donde se prevea.
+
+- **Frentes**: Los frentes fríos, son masas de aire frio, aparecen como una línea azul gruesa con flechas (triángulos) delante de ellos, indicando de ese modo la dirección en la que se mueve. Los frentes cálidos, son masas de aire caliente, son representados con una línea roja gruesa, con semicírculos a lo largo del borde que avanza, indicando el sentido en el que se desplaza. Los frentes estacionarios se representan con una línea que alterna semicírculos rojos de un lado y triángulos azules del otro y los frentes ocluidos aparecen como líneas que alternan triángulos azules y semicírculos rojos del mismo lado de la línea.
 
 
-![image40](./imgFun/UD2_image40.png)
+![Mapas del tiempo en superficie](./imgFun/UD2_image40.png){width=50%}
 
 ## INFLUENCIA DE LAS ACTIVIDADES AGROPECUARIAS EN EL CLIMA
 
@@ -1070,7 +1057,7 @@ Todas las ramas de la actividad agroforestal, y ganadera van a verse afectadas d
 
 El hecho es que determinadas actividades humanas están provocando este cambio climático. La concentración de gases como el dióxido de carbono, el metano, el óxido nitroso, etc. ha aumentado (más del 30% durante el último siglo), lo que contribuye a un calentamiento global del clima.
 
-En general, se denomina “efecto invernadero” al aumento de la temperatura global de la Tierra debido a la acumulación de gases. Efecto invernadero y calentamiento global son dos conceptos que van de la mano. Y es que lo segundo es consecuencia de lo primero.
+En general, se denomina "efecto invernadero" al aumento de la temperatura global de la Tierra debido a la acumulación de gases. Efecto invernadero y calentamiento global son dos conceptos que van de la mano. Y es que lo segundo es consecuencia de lo primero.
 
 ### Efecto invernadero
 
@@ -1091,35 +1078,26 @@ Consecuencia que puede tener todo esto:
 - Especies vegetales y animales silvestres se han desplazado hacia latitudes más extremas y han variado sus fases reproductivas. Plantas y animales mueres o se trasladan a otros hábitats (no nativos), cuando los ecosistemas de los que dependen para sobrevivir se ven amenazados.
 
 
-![image41](./imgFun/UD2_image41.png)
+![Efecto invernadero](./imgFun/UD2_image41.png){width=50%}
 
 Este cambio climático traerá asociado una serie de problemas que en el sector agropecuario se reflejaran como:
 
 - Cambios de precipitaciones estacionales. Que nos obligan a adaptar otros calendarios de siembra y especies.
-
 - Aumento de demanda de agua sur y sureste península, disminución de recursos hídricos.
-
 - Cambios climáticos extremos, sequías, inundaciones que complicaran el manejo de los cultivos.
-
 - Cambios en la biología de plagas y enfermedades dificultaran su manejo.
-
 - Aumento de zonas áridas y semiáridas, aumento de zonas de erosión.
 
 ### Gases del efecto invernadero
 
 Los gases del efecto invernadero son:
 
-- ***El vapor de agua ******(H2O)**** es el principal gas invernadero. A él le debemos que la Tierra no esté congelada. El vapor de agua (H2O) **se produce** por la evaporación del agua. **Es el más abundante y contribuye a incrementar el efecto invernadero, pero es un gas de vida **de vida corta ya que** se condensa y precipita.  **Este gas es el único en que los humanos no tenemos influencia de modificar sus concentraciones por nuestras actividades.*
-
-- ***Dióxido de carbono (CO2)******: es el ******gas ******que más se asocia a actividades humanas, y el principal responsable de******l efecto invernadero******. La concentración en la atmósfera se debe ******a la respiración de los seres vivo, la descomposición de la materia orgánica muerta, ******al uso de combustibles fósiles para procesos industriales y medios de transporte, erupciones volcánicas o los incendios forestales.***
-
-- ***Metano (CH4)******: ******El metano se ******produce por la descomposición de materias orgánicas, cultivos como el arroz y en los rumiantes durante su proceso digestivo. También se produce por los escapes de depósitos naturales y conducciones industriales. Su potencial de calentamiento global es muy alto: cada kilo de metano calienta la Tierra 25 veces más que la misma masa de CO2. Eso sí, su presencia en la atmósfera es mínima en comparación con el CO2.***
-
-- ***Óxido nitroso (N2O)******: ******g******as de efecto invernadero provocado principalmente por el uso masivo de fertilizantes nitrogenados en la agricultura intensiva. También lo producen otras fuentes como las centrales térmicas, los tubos de escape de automóviles y los motores de aviones, la quema de biomasa ******y ******también durante el tratamiento de aguas residuales.***
-
-- ***Gases fluorados******: *****Son compuestos químicos artificiales, ****solo provienen de actividades relacionadas con el ser humano. comenzaron a usarse a principios de los 90 para sustituir a las sustancias que agotan la capa de ozono. Los gases fluorados son empleados, entre otras aplicaciones, como refrigerantes, agentes extintores de incendios, disolventes, ****producción de aluminio ****y ****para la fabricación de espumas aislantes e incluyen, entre otras, las siguientes sustancias: Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC), Hexafluoruro de azufre (SF6)****. ****S****e encuentran presentes en pequeñas concentraciones en la atmósfera pero son extremadamente potentes en el efecto invernadero que provocan. **
-
-- ***El ozono troposférico (O3)*****. ****Primero vamos a diferenciar el “ozono bueno” del “ozono malo”. ****El ****ozono troposférico**** (el que se encuentra cerca de la superficie de la Tierra, entre el suelo y 19 km. de ****altura) es un contaminante que puede llegar a afectar a nuestra salud. Además, en la alta troposfera contribuye en gran medida al efecto invernadero. El ****ozono estratosférico**** (el que se encuentra en las capas altas de la atmósfera) nos protege de las radiaciones ultravioletas del sol. También originado por la quema de fuentes de energía contaminantes.**
+- **El vapor de agua (H2O)** es el principal gas invernadero. A él le debemos que la Tierra no esté congelada. El vapor de agua (H2O) se produce** por la evaporación del agua. Es el más abundante y contribuye a incrementar el efecto invernadero, pero es un gas de vida de vida corta ya que se condensa y precipita.  Este gas es el único en que los humanos no tenemos influencia de modificar sus concentraciones por nuestras actividades.
+- **Dióxido de carbono (CO2)**: es el gas que más se asocia a actividades humanas, y el principal responsable del efecto invernadero. La concentración en la atmósfera se debe a la respiración de los seres vivo, la descomposición de la materia orgánica muerta, al uso de combustibles fósiles para procesos industriales y medios de transporte, erupciones volcánicas o los incendios forestales.
+- **Metano (CH4)**: El metano se produce por la descomposición de materias orgánicas, cultivos como el arroz y en los rumiantes durante su proceso digestivo. También se produce por los escapes de depósitos naturales y conducciones industriales. Su potencial de calentamiento global es muy alto: cada kilo de metano calienta la Tierra 25 veces más que la misma masa de CO2. Eso sí, su presencia en la atmósfera es mínima en comparación con el CO2.
+- **Óxido nitroso (N2O)**: gas de efecto invernadero provocado principalmente por el uso masivo de fertilizantes nitrogenados en la agricultura intensiva. También lo producen otras fuentes como las centrales térmicas, los tubos de escape de automóviles y los motores de aviones, la quema de biomasa y también durante el tratamiento de aguas residuales.
+- **Gases fluorados**: Son compuestos químicos artificiales, solo provienen de actividades relacionadas con el ser humano. comenzaron a usarse a principios de los 90 para sustituir a las sustancias que agotan la capa de ozono. Los gases fluorados son empleados, entre otras aplicaciones, como refrigerantes, agentes extintores de incendios, disolventes, producción de aluminio y para la fabricación de espumas aislantes e incluyen, entre otras, las siguientes sustancias: Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC), Hexafluoruro de azufre (SF6). Se encuentran presentes en pequeñas concentraciones en la atmósfera pero son extremadamente potentes en el efecto invernadero que provocan. 
+- **El ozono troposférico (O3)**. Primero vamos a diferenciar el "ozono bueno" del "ozono malo". El **ozono troposférico** (el que se encuentra cerca de la superficie de la Tierra, entre el suelo y 19 km. de altura) es un contaminante que puede llegar a afectar a nuestra salud. Además, en la alta troposfera contribuye en gran medida al efecto invernadero. El **ozono estratosférico** (el que se encuentra en las capas altas de la atmósfera) nos protege de las radiaciones ultravioletas del sol. También originado por la quema de fuentes de energía contaminantes.
 
 ### El CO2 y el metano
 
@@ -1134,11 +1112,8 @@ Si bien queda mucho trabajo por hacer para reducir las emisiones de los sectores
 Nosotros también podemos contribuir a reducir el efecto invernadero en nuestro planeta:
 
 - Reducir, reciclar y reutilizar, si cada una de las personas reciclaran mas de la mitad de sus desechos domésticos, según el Instituto de Ecología (INECOL), se podría reducir la emisión de dióxido de carbono hasta un 60% cada año; te aconsejamos comprar productos de rehuso en lugar de desechables, como las botellas o contenedores de agua que son de materiales duraderos como el cristal o aluminio.
-
 - Conducir menos tu automóvil, eso significa menos emisiones de dióxido de carbono porque se quema menos gasolina. Acciones como, revisar que tu automóvil esté funcionando de manera eficiente, compartir el coche, usar bicicleta y caminar, también generan beneficios en el medio ambiente.
-
 - La vegetación es el medio principal que puede ayudar a equilibrar el efecto invernadero. Plantar árboles que absorben el dióxido de carbono de la atmósfera y a su vez, emiten oxígeno. Un árbol absorbe alrededor de una tonelada de dióxido de carbono en toda su vida útil. También se puede crear y hacer un jardín, este cumple el mismo propósito.
-
 - Cuidemos los mares y océanos, no contaminar nuestro entorno ambiental es una forma brillante de cuidar nuestro planeta. Todas las especies marinas cumplen con la tarea de cuidar el medio ambiente, tal es el caso del pequeño fitoplancton en el océano, este absorbe grandes cantidades de dióxido de carbono y emite el doble oxígeno.
 
 # FA_UD3_El suelo
@@ -1159,23 +1134,17 @@ El suelo es una capa de material delgada y a menudo frágil, que recubre la part
 
 Está constituido por tres fracciones:
 
-- **Fracción Sólida****: materia orgánica en descomposición y elementos minerales (arcilla, limo, arena, etc.). Ocupa el 50 % del suelo en volumen, correspondiendo un 5 % a compuestos orgánicos y un 45 % a compuestos minerales.**
+- **Fracción Sólida**: materia orgánica en descomposición y elementos minerales (arcilla, limo, arena, etc.). Ocupa el 50 % del suelo en volumen, correspondiendo un 5 % a compuestos orgánicos y un 45 % a compuestos minerales.
+- **Fracción Líquida**: es el agua que hay en el suelo. Ocupa parte de los espacios que existen entre las diferentes partículas de la fracción sólida. Cuando un suelo está inundado todos los espacios están ocupados por el agua, no habiendo espacio para el aire. Su contenido en el suelo es del 25 %.
+- **Fracción Gaseosa**: es el aire existente en el suelo. Ocupa los poros que no están ocupados por el agua. Su contenido en el suelo es también del 25 %.
 
-- **Fracción Líquida****: es el agua que hay en el suelo. Ocupa parte de los espacios que existen entre las diferentes partículas de la fracción sólida. Cuando un suelo está inundado todos los espacios están ocupados por el agua, no habiendo espacio para el aire. Su contenido en el suelo es del 25 %.**
-
-- **Fracción Gaseosa****: es el aire existente en el suelo. Ocupa los poros que no están ocupados por el agua. Su contenido en el suelo es también del 25 %.**
-
-
-![image2](./imgFun/UD3_image2.png)
+![Propiedades](./imgFun/UD3_image2.png){width=50%}
 
 Las funciones más importantes que tiene un suelo son:
 
 - Servir de anclaje para el sistema radicular de las plantas.
-
 - Almacenar temporalmente parte del agua que está en el suelo y ponerlo a disposición de la planta.
-
 - Aporta la aireación necesaria para que las raíces de las plantas se puedan desarrollar.
-
 - Proporciona los nutrientes minerales que las plantas necesitan para su correcto desarrollo.
 
 ### Origen y formación
@@ -1184,23 +1153,21 @@ El punto de inicio para la formación del suelo o edafogénesis es la roca madre
 
 Los geólogos clasifican las rocas en tres grandes tipos: ígneas, sedimentarias y metamórficas.
 
-- **Rocas ígneas****: son el material básico de la corteza terrestre, se han creado por el enfriamiento de los materiales fundidos de las profundidades de la tierra. El granito es una roca ígnea.**
-
-- **Rocas sedimentarias****: se forman cuando el aire, agua, u otro agente depositan materiales, sedimentos, procedentes de la alteración en superficie de otras rocas, en las concavidades de los terrenos. Posteriormente estos sedimentes sufren proceso de compactación y cementación. Un ejemplo de rocas sedimentarias son las rocas calizas.**
-
-- **Rocas metamórficas****: cuando a cualquier tipo de roca se le somete a altas presiones o temperaturas parte de sus minerales sufren transformaciones que originaran un nuevo tipo de roca. Un ejemplo característico son las pizarras ****y mármoles.**
+- **Rocas ígneas**: son el material básico de la corteza terrestre, se han creado por el enfriamiento de los materiales fundidos de las profundidades de la tierra. El granito es una roca ígnea.
+- **Rocas sedimentarias**: se forman cuando el aire, agua, u otro agente depositan materiales, sedimentos, procedentes de la alteración en superficie de otras rocas, en las concavidades de los terrenos. Posteriormente estos sedimentes sufren proceso de compactación y cementación. Un ejemplo de rocas sedimentarias son las rocas calizas.
+- **Rocas metamórficas**: cuando a cualquier tipo de roca se le somete a altas presiones o temperaturas parte de sus minerales sufren transformaciones que originaran un nuevo tipo de roca. Un ejemplo característico son las pizarras y mármoles.
 
 La formación del suelo depende de cinco factores:
 
-**La naturaleza de la roca original****:** Dependiendo de la composición inicial de los minerales que la forman, se realizará un tipo distinto de meteorización o descomposición de de las rocas. Según estos materiales iniciales, tendremos las distintas propiedades físicas y químicas de los suelos.
+**La naturaleza de la roca original**: Dependiendo de la composición inicial de los minerales que la forman, se realizará un tipo distinto de meteorización o descomposición de las rocas. Según estos materiales iniciales, tendremos las distintas propiedades físicas y químicas de los suelos.
 
-**El clima: **Influye directamente mediante la humedad y la temperatura e indirectamente mediante ella vegetación. Sin temperatura y humedad no se puede formar suelo. El clima es el principal agente de alteración química del suelo (meteorización química) y de la fragmentación física (meteorización física).
+**El clima**: Influye directamente mediante la humedad y la temperatura e indirectamente mediante ella vegetación. Sin temperatura y humedad no se puede formar suelo. El clima es el principal agente de alteración química del suelo (meteorización química) y de la fragmentación física (meteorización física).
 
-**El relieve del terreno****: **Condiciona el desarrollo del suelo en cuanto a profundidad y drenaje. Los relieves escarpados dan suelos sueltos y poco profundos y los relieves más moderados (valle) dan suelos más profundos.
+**El relieve del terreno**: Condiciona el desarrollo del suelo en cuanto a profundidad y drenaje. Los relieves escarpados dan suelos sueltos y poco profundos y los relieves más moderados (valle) dan suelos más profundos.
 
-**Los seres vivos****: **Condicionan los procesos químicos y físicos del suelo favoreciendo su fertilidad. La vegetación es clave en la formación del suelo por su acción de meteorización (musgos, líquenes, raíces…) y porque constituyen la principal fuente de materia orgánica del suelo. Los animales que viven en el suelo constituyen lo que se llama la fauna del suelo, son los responsables de  la alteración de la materia orgánica y de su mezcla con el mineral del suelo. La vida sobre y dentro del suelo incide directamente en su formación.
+**Los seres vivos**: Condicionan los procesos químicos y físicos del suelo favoreciendo su fertilidad. La vegetación es clave en la formación del suelo por su acción de meteorización (musgos, líquenes, raíces…) y porque constituyen la principal fuente de materia orgánica del suelo. Los animales que viven en el suelo constituyen lo que se llama la fauna del suelo, son los responsables de  la alteración de la materia orgánica y de su mezcla con el mineral del suelo. La vida sobre y dentro del suelo incide directamente en su formación.
 
-**El tiempo****: **Los procesos de formación del suelo son largos y su duración determina su cantidad y profundidad. Los suelos más antiguos son los que poseen mayores espesores y, por el contrario, los suelos más jóvenes son los de menos profundidad.
+**El tiempo**: Los procesos de formación del suelo son largos y su duración determina su cantidad y profundidad. Los suelos más antiguos son los que poseen mayores espesores y, por el contrario, los suelos más jóvenes son los de menos profundidad.
 
 Todo suelo se origina a partir de una roca sólida, estos procesos de formación del suelo son largos.
 
@@ -1210,14 +1177,18 @@ Se suele distinguir dos tipos de meteorización:
 
 **La meteorización física**: se caracteriza por la fragmentación de la roca sin cambiar los minerales que la forman. Los factores determinantes son el agua, la temperatura y el viento. Un ejemplo es la meteorización producida por el aumento de volumen que se produce en el agua cuando se congela, el agua al quedarse retenida en las grietas de la roca madre y congelarse por la presencia de bajas temperaturas hacen que se parta. Otro ejemplo es la dilatación y contracción que sufre una roca por el calentamiento y enfriamiento de su superficie debido a la oscilación térmica. La lluvia y el viento al golpear la superficie de la roca también generan erosión.
 
+
+Podéis visualizar esta [publicación](https://www.youtube.com/watch?v=jgbtJjLWBlU)
+
 **La meteorización química** es la que altera la composición de la roca y la rompe. El proceso más simple es la solución. El agua de lluvia tiene un pH neutro y puede disolver lentamente los minerales de la roca, por otro lado se sabe que a veces la lluvia tiene un pH más bajo de lo normal “lluvia ácida” que acelera bastante más estos procesos.
+
 
 Los organismos vivos de un suelo (microorganismos, hongos, líquenes, plantas, animales, hombre, etc.), favorecen la meteorización química y física.
 
 
-![image3](./imgFun/UD3_image3.png)
+![Formación](./imgFun/UD3_image3.png){width=50%}
 
-Meteorización para niños:
+[Meteorización para niños](https://www.youtube.com/watch?v=Dmw-jiNyN2A)
 
 ## EL PERFIL DEL SUELO
 
@@ -1225,39 +1196,34 @@ Un suelo, una vez formado, va cambiando a lo largo del tiempo. Va a experimentar
 
 Los procesos que se pueden producir son:
 
-- ***ADICIONES******: materiales caídos, ramas, hojas, sustancias ******o parículas****** transportadas por el aire que se añaden al suelo.***
-
-- ***PÉRDIDAS******: los materiales se pierden al ser arrastrados a zonas más profundas o arrastrados en superficie a otros lugares.***
-
-- ***D******ESPLAZAMIENTOS******: movimientos de materiales dentro del suelo, pero sin dejar de formar parte de él.***
-
-- ***T******RANSFORMACIONES******: los materiales son alterados, existe meteorización de los minerales y putrefacción de la materia orgánica.***
+- **ADICIONES**: materiales caídos, ramas, hojas, sustancias o parículas transportadas por el aire que se añaden al suelo.
+- **PÉRDIDAS**: los materiales se pierden al ser arrastrados a zonas más profundas o arrastrados en superficie a otros lugares.
+- **DESPLAZAMIENTOS**: movimientos de materiales dentro del suelo, pero sin dejar de formar parte de él.
+- **TRANSFORMACIONES**: los materiales son alterados, existe meteorización de los minerales y putrefacción de la materia orgánica.
 
 Cada uno de estos procesos ocurre de forma diferente en profundidades diferentes. Por ejemplo, la materia orgánica suele ser agregada en las capas superficiales y los materiales del suelo de menor tamaño como las arcillas son movidos de arriba a bajo depositándose en posiciones inferiores. Como se puede observar estos cambios se producen a distintas profundidades, por lo que se van a generar capas horizontales.
 
 **El perfil del suelo es un corte vertical en el terreno,** que va desde la superficie del suelo hasta la roca madre, a partir de la que se ha formado. En todo perfil, salvo casos excepcionales, se pueden distinguir una serie de capas horizontales llamadas horizontes, en algunos suelos se diferencian claramente los horizontes principales, en otros no existe una diferencia clara.
 
+\Begin{figure}
+\centering
+\subfigure[Perfil 1]{\includegraphics[width=0.4\linewidth]{./imgFun/UD3_image4.png}}
+\subfigure[Perfil 2]{\includegraphics[width=0.4\linewidth]{./imgFun/UD3_image5.png}}
+\caption{Suelo}
+\End{figure}
 
-![image4](./imgFun/UD3_image4.png)
-
-
-![image5](./imgFun/UD3_image5.png)
 
 ### Horizontes y tipos
 
 Las distintas capas del perfil del suelo se llaman horizontes, se distinguen entre sí por sus características (color, contenido de partículas, etc.) Se pueden distinguir las siguientes:
 
-- **Horizonte orgánico O**: contiene la mayor parte de los microorganismos del suelo.. Aquí se encuentran los restos vegetales y animales que dan lugar a la materia orgánica. Su color suele ser marrón oscuro debido a la presencia de dicha materia.
+- **Horizonte orgánico O**: contiene la mayor parte de los microorganismos del suelo. Aquí se encuentran los restos vegetales y animales que dan lugar a la materia orgánica. Su color suele ser marrón oscuro debido a la presencia de dicha materia.
+- **Horizonte A**: es el que ha sufrido los efectos del clima durante más tiempo. Abarca hasta donde alcanzan las labores ordinarias de arado, en el se sitúan las raíces de la mayor parte de las plantas herbáceas. Abundan el humus y raíces de plantas. La lluvia exporta los materiales más finos hacia las capas inferiores, por lo que está formado por materiales más gruesos.
+- **Horizonte B**: en este horizonte se encuentran las raíces más profundas. En él se depositan los materiales arrastrados desde el horizonte A. Es rico en arcilla y tiene menor cantidad de materia orgánica que el horizonte A. Su porosidad es pequeña.**
+- **Horizonte C**: está formado por rocas más o menos alteradas que sirven de soporte a los dos horizontes anteriores. Es la roca madre disgregada.
+- **Horizonte R**: roca madre.
 
-![image6](./imgFun/UD3_image6.png)
-
-- **Horizonte A****: es el que ha sufrido los efectos del clima durante más tiempo. ****Abarca hasta donde alcanzan las labores ordinarias de arado, en el se sitúan las raíces de la mayor parte de las plantas herbáceas. ****Abundan el humus y raíces de plantas. La lluvia exporta los materiales más finos hacia las capas inferiores, por lo que está formado por materiales ****más ****gruesos.**
-
-- **Horizonte B****: ****en este horizonte se encuentran las raíces más profundas. En él s****e depositan los materiales arrastrados desde el horizonte A. Es rico en arcilla y tiene menor cantidad de materia orgánica que el horizonte A. Su porosidad es pequeña.**
-
-- **Horizonte C****: ****está formado por rocas más o menos alteradas que sirven de soporte a los dos horizontes anteriores. E****s la roca madre disgregada.**
-
-- **Horizonte R****: roca madre.**
+![Horizontes y tipo](./imgFun/UD3_image6.png)
 
 En algunos suelos se diferencian claramente los horizontes principales; en otros, en cambio, no existe una diferenciación clara o no existen. La aparición de estos horizontes varía en función de las condiciones edáficas, climáticas y topográficas de la zona. Por ejemplo, en zonas altas de montaña es frecuente encontrarnos un pequeño horizonte orgánico y justo debajo la roca madre, sin horizontes A, B y C.
 
@@ -1273,41 +1239,36 @@ Estas propiedades son fundamentales para el crecimiento de las plantas porque va
 
 La textura es una característica que viene dada por la fracción sólida mineral del suelo. Se trata de la proporción en arcillas, limos y arena de un suelo. La principal diferencia entre estos tres elementos es su tamaño que nos dará pie posteriormente a su clasificación.
 
-- **ARENA****: ****partículas minerales sólidas de tamaño entre 2 mm y 0,0****2**** mm. Constituyen la**** fracción del suelo más grande, está compuesta principalmente de granos de cuarzo, ****feldespatos, micas, ****etc, que son elementos muy comunes en la corteza terrestre.**** ****L****os granos de arena más grandes son visibles a simple vista. ****S****on areniscos al tacto y no se pegan los unos a los otros. Los suelos arenosos crean suelos con grandes poros, de modo que no retienen nutrientes ni agua favoreciendo la infiltración, son suelos bien aireados.**
-
-- **LIMO****:**** es la fracción de suelo intermedia, ****comprendida entre 0,0****2**** y 0,002 mm. ****N****o es visible a la vista, su tacto es suave como el talco y no ****tienen capacidad de agregación****. ****Su composición química es semejante a la arena pero han ****sufrido una meteorización más intensa que ****estas**** y por ese motivo son más pequeñas. De todas las fracciones del suelo, el limo tiene la mejor capacidad para retener grandes cantidades de agua para ser usada por las plantas.**
-
-- **ARCILLA****: ****constituyen la fracción de suelo más pequeña, ****menor de 0,002 mm. Es el componente más importante de la fracción sólida de un suelo. Las arcillas aparecen a causa de la meteorización química de la roca ****(****mientras que arena y limo son por causa de la meteorización física****)**** son un producto nuevo que no aparece en las rocas sin meteorizar, y producidas por el proceso de formación del suelo. ****Estos nuevos minerales ****tienen actividad física y química y ****pueden unir químicamente nutrientes a su superficie, reteniendo los nutrientes de la planta en el suelo. Las partículas de arcilla se pegan las unas a las otras y, por ello, no se comportan como granos individuales en el suelo. La arcilla mojada es normalmente pegajosa y puede ser moldeada.**
+- **ARENA**: partículas minerales sólidas de tamaño entre 2 mm y 0,02 mm. Constituyen la fracción del suelo más grande, está compuesta principalmente de granos de cuarzo, feldespatos, micas, etc, que son elementos muy comunes en la corteza terrestre. Los granos de arena más grandes son visibles a simple vista. Son areniscos al tacto y no se pegan los unos a los otros. Los suelos arenosos crean suelos con grandes poros, de modo que no retienen nutrientes ni agua favoreciendo la infiltración, son suelos bien aireados.
+- **LIMO**: es la fracción de suelo intermedia, comprendida entre 0,02 y 0,002 mm. No es visible a la vista, su tacto es suave como el talco y no tienen capacidad de agregación. Su composición química es semejante a la arena pero han sufrido una meteorización más intensa que estas y por ese motivo son más pequeñas. De todas las fracciones del suelo, el limo tiene la mejor capacidad para retener grandes cantidades de agua para ser usada por las plantas.
+- **ARCILLA**: constituyen la fracción de suelo más pequeña, menor de 0,002 mm. Es el componente más importante de la fracción sólida de un suelo. Las arcillas aparecen a causa de la meteorización química de la roca (mientras que arena y limo son por causa de la meteorización física) son un producto nuevo que no aparece en las rocas sin meteorizar, y producidas por el proceso de formación del suelo. Estos nuevos minerales tienen actividad física y química y pueden unir químicamente nutrientes a su superficie, reteniendo los nutrientes de la planta en el suelo. Las partículas de arcilla se pegan las unas a las otras y, por ello, no se comportan como granos individuales en el suelo. La arcilla mojada es normalmente pegajosa y puede ser moldeada.
 
 Las partículas mas gruesas son las gravas: tamaño oscila entre 2 y 7 mm. Mayores de 7 mm serían piedras.
 
-**C****LASIFICACIÓN DEL SUELO POR ****SU ****TEXTURA**
+**CLASIFICACIÓN DEL SUELO POR SU TEXTURA**
 
 Los suelos normalmente están formados por más de una fracción de suelo; las tres fracciones se encuentran en la mayoría de los suelos. La proporción exacta o el porcentaje de las tres se llama textura del suelo. Obviamente cualquier combinación de las tres es posible. Para simplificar, los científicos han creado una división que agrupa suelos similares, de esta forma han creado 12 clases de textura.
 
 Para determinar la clasificación de la textura del suelo nos basamos en el triángulo textural o del suelo. Los datos que tenemos que tener claros son el contenido de arcilla, limo y arena de nuestro suelo. Estos datos los tenemos que tener referidos en %. Trazamos líneas cuyo punto de partida son los porcentajes de suelo de cada fracción y su dirección es la que se indica en el triángulo.
 
-Ejemplo: un suelo con un 24 % de arena, 32 % de arcilla y 44 % de limo.
-
-![image7](./imgFun/UD3_image7.png)
+![Ejemplo: un suelo con un 24 % de arena, 32 % de arcilla y 44 % de limo](./imgFun/UD3_image7.png)
 
 **Características de los suelos según su textura:**
 
 - Los **suelos arenosos** se denominan suelos sueltos, de textura gruesa. Se caracterizan por tener una elevada permeabilidad al agua. Y por tanto una escasa retención de agua y de nutrientes. Son de fácil laboreo y de buena aireación que facilita el desarrollo de las raíces
-
 - Los **suelos arcillosos** se denominan suelos pesados, de textura fina. Son plásticos, poco aireados, difíciles de labrar y retienen mucha cantidad de agua y nutrientes. Son suelos muy activos químicamente. Por su baja porosidad pueden convertirse en suelos impermeables y asfixiantes.
 
 El contenido en arcilla en un suelo resulta mucho más determinante del comportamiento del mismo y de la respuesta de las plantas, que los restantes componentes. Debe haber unas tres veces más arena gruesa que arcilla para que el suelo tenga unas propiedades condicionadas por la arena, más que por la arcilla.
 
 Entre la textura arenosa y la arcillosa se encuentran las otras 10 clases, con características intermedias entre ambas.
 
-- La **suelos f****ranc****os** se considera la textura ideal, porque tiene una mezcla equilibrada de arena, limo y arcilla (arcilla 10-30 %, limo 30-50 % y arena 20-50 %) . Esto supone un equilibrio entre permeabilidad al agua y retención de agua y de nutrientes. Son los suelos mejor estructurados, lo que favorece los procesos físicos, químicos y biológicos del suelo.
-
-- **D****ETERMINACIÓN DE LA TEXTURA DEL SUELO**
+- La **suelos francos** se considera la textura ideal, porque tiene una mezcla equilibrada de arena, limo y arcilla (arcilla 10-30 %, limo 30-50 % y arena 20-50 %) . Esto supone un equilibrio entre permeabilidad al agua y retención de agua y de nutrientes. Son los suelos mejor estructurados, lo que favorece los procesos físicos, químicos y biológicos del suelo.
+  
+**DETERMINACIÓN DE LA TEXTURA DEL SUELO**
 
 La cantidad de arena, limo y arcilla que tiene un suelo puede medirse de manera mecánica, sencillamente. Hay un método muy conocido el del cilindro.
 
-**Método del «cilindro».**
+- **Método del "cilindro".**
 
 Este método se basa en el hecho de que la arcilla es fácilmente moldeable, mientras que ni el limo ni la arena lo son.
 
@@ -1317,17 +1278,15 @@ Dependiendo de si conseguimos o no hacer el cilindro, y la sensación que nos d�
 
 Clasificación del tipo de textura. «Método del cilindro»
 
-SE PUEDE FORMAR UN CILINDRO DE 3 MM DE DIÁMETRO	TACTO				CLASE DE SUELO
+| SE PUEDE FORMAR UN CILINDRO DE 3 MM DE DIÁMETRO| TACTO | CLASE DE SUELO |
+| :---: | :------: | :---: |
+| NO | Arenoso. | Suelo arenoso. |
+| NO | Suave | Suelo limoso. |
+| NO | Entre suave y arenoso. | Suelo franco.|
+| SÍ | Al intentar hacer un anillo se rompe. | Suelo franco-arcilloso|
+| SI | Al intentar hacer un anillo no se rompe. | Suelo arcilloso.|
 
-NO					Arenoso.			Suelo arenoso.
-
-NO					Suave				Suelo limoso.
-
-NO				Entre suave y arenoso.			Suelo franco.
-
-SÍ			Al intentar hacer un anillo se rompe.		Suelo franco-arcilloso
-
-SI			Al intentar hacer un anillo no se rompe.		Suelo arcilloso.
+Podemos visualizar tanto este [vídeo](https://www.fao.org/fishery/static/FAO_Training/FAO_Training/General/x6706s/x6706s06.htm0) como [este](https://www.youtube.com/watch?v=Io-JQyqtvy8)
 
 ### Estructura del suelo y porosidad.
 
@@ -1341,24 +1300,18 @@ Si no hay una proporción de arcillas y materia orgánica, las partículas del s
 
 Las partículas y los agregados de suelo constituyen “piezas” o elementos que no encajan entre sí como un puzzle evitando que el suelo se compacte y dejando espacios vacíos que pueden ser grandes (macroporos) y pequeños (microporos) que se comunican entre sí formando “canalillos” en el suelo, a través de los cuales circula el aire y el agua además de crecer por ellos las raicillas. Normalmente los poros más grandes son ocupados por aire y los más pequeños por agua.
 
-![image8](./imgFun/UD3_image8.jpg)
+![Estructura del suelo](./imgFun/UD3_image8.jpg)
 
 En general cuando un suelo tiene una buena estructura se encuentra “mullido”, con poros grandes que permiten el paso del aire, del agua y de las raíces, y con poros pequeños capaces de retener agua y nutrientes.
 
 Un suelo bien estructurado nos aporta:
 
 - Buena penetrabilidad de las raíces.
-
 - Buena capacidad de retención de agua.
-
 - Buena capacidad de retención de aire.
-
 - No se destruyen los grumos por el laboreo, por los impactos de las gotas de lluvia o por el agua de riego.
-
 - Se labran bien.
-
 - No forman costra.
-
 - Son suelos fértiles, que retienen bien los nutrientes procedentes de abonados o de la mineralización de la materia orgánica.
 
 **TIPOS DE ESTRUCTURAS:**
@@ -1367,29 +1320,22 @@ Hay varias formas de catalogar la estructura de un suelo. Las más importantes s
 
 **Según el grado de desarrollo**:
 
-- **Fuerte****: agregados duraderos, son compactos y bien definidos, incluso cuando el suelo está seco. ****Ejemplo:**** En ****tierras de cultivo bien estructuradas****, donde la materia orgánica y las raíces ayudan a formar agregados duraderos. También en ****suelos arcillosos ricos en minerales****, que mantienen su estructura incluso después del secado.**
+- **Fuerte**: agregados duraderos, son compactos y bien definidos, incluso cuando el suelo está seco. Ejemplo: En **tierras de cultivo bien estructuradas**, donde la materia orgánica y las raíces ayudan a formar agregados duraderos. También en **suelos arcillosos ricos en minerales**, que mantienen su estructura incluso después del secado.
+- **Moderada**: Los agregados son visibles y diferenciados, pero no tan resistentes como en la estructura fuerte. Ejemplo: Suelos agrícolas manejados con **rotación de cultivos y abonos orgánicos**, donde se mantiene una buena estructura, pero con menor compactación que en los suelos de estructura fuerte.
+- **Débil**: Los agregados solo se pueden distinguir cuando el suelo está húmedo y se desmoronan fácilmente al secarse. Ejemplo: Un ***suelo franco o ligeramente arenoso**, donde la materia orgánica no es suficiente para mantener agregados firmes. También en terrenos agrícolas con exceso de labranza, que pueden perder estructura fácilmente.
+- **Sin estructura**: agregados que no se distinguen por falta de aglomeración, como ocurre en los suelos arenosos. No se observan agregados definidos porque las partículas no están bien unidas. Ejemplo: Un **suelo arenoso de una zona costera o desértica**, donde las partículas de arena no se aglomeran y el agua se infiltra rápidamente sin retención. También en **suelos erosionados**, donde la materia orgánica ha desaparecido y el suelo ha perdido su capacidad de formar agregados.**
 
-- **Moderada****: Los agregados son visibles y diferenciados, pero no tan resistentes como en la estructura fuerte. ****Ejemplo:**** Suelos agrícolas manejados con ****rotación de cultivos y abonos orgánicos****, donde se mantiene una buena estructura, pero con menor compactación que en los suelos de estructura fuerte.**
-
-- **Débil****: Los agregados solo se pueden distinguir cuando el suelo está húmedo y se desmoronan fácilmente al secarse. ****Ejemplo:**** Un ****suelo franco o ligeramente arenoso****, donde la materia orgánica no es suficiente para mantener agregados firmes. También en terrenos agrícolas con ****exceso de labranza****, que pueden perder estructura fácilmente.**
-
-- **Sin estructura****: agregados que no se distinguen por falta de aglomeración, como ocurre en los suelos arenosos. No se observan agregados definidos porque las partículas no están bien unidas. ****Ejemplo:**** Un ****suelo arenoso de una zona costera o desértica****, donde las partículas de arena no se aglomeran y el agua se infiltra rápidamente sin retención. También en ****suelos erosionados****, donde la materia orgánica ha desaparecido y el suelo ha perdido su capacidad de formar agregados.**
-
-![image9](./imgFun/UD3_image9.png)
+![Grado de desarrollo](./imgFun/UD3_image9.png){width=50%}
 
 **Según la forma de los agregados:**
 
-- **Laminar****. Los agregados tienen forma aplanada, con predominio de la dimensión horizontal. Las raíces y el aire penetran con dificultad.**
+- **Laminar**. Los agregados tienen forma aplanada, con predominio de la dimensión horizontal. Las raíces y el aire penetran con dificultad.
+- **En bloques**. Angulares o subangulares. Los agregados tienen forma de bloque, sin predominio de ninguna dimensión.**
+- **Prismática**. Los agregados tienen forma de prisma, de mayor altura que anchura. Es típico de suelos con mucha arcilla.**
+- **Columnar**. Semejante a la estructura prismática, pero con la base redondeada. Esta estructura es típica de suelos envejecidos.**
+- **Granular**. Los agregados son esferas imperfectas, con tamaño de 1 a 10 mm de grosor. Es la estructura más ventajosa, al permitir la circulación de agua y aire.**
 
-- **En bloques****. Angulares o subangulares. Los agregados tienen forma de bloque, sin predominio de ninguna dimensión.**
-
-- **Prismática****. Los agregados tienen forma de prisma, de mayor altura que anchura. Es típico de suelos con mucha arcilla.**
-
-- **Columnar****. Semejante a la estructura prismática, pero con la base redondeada. Esta estructura es típica de suelos envejecidos.**
-
-- **Granular****. Los agregados son esferas imperfectas, con tamaño de 1 a 10 mm de grosor. Es la estructura más ventajosa, al permitir la circulación de agua y aire.**
-
-![image10](./imgFun/UD3_image10.png)
+![Forma de los agragados](./imgFun/UD3_image10.png){width=50%}
 
 ## PROPIEDADES QUÍMICAS DEL SUELO.
 
@@ -1397,7 +1343,7 @@ Son tres: Capacidad de Intercambio Catiónico, pH y Conductividad Eléctrica.
 
 Las plantas se nutren de elementos minerales. Hay que distinguir dos grandes grupos: los macroelementos y los microelementos. Todos son imprescindibles para el correcto desarrollo de las plantas.
 
-**MACROELEMENTOS****:**
+### MACROELEMENTOS
 
 Son tomados en grandes cantidades.
 
@@ -1407,7 +1353,7 @@ El carbono y el oxígeno los toman de la atmósfera en forma de CO2 y el hidróg
 
 El resto los absorben de la **solución del suelo**.
 
-**MICROELEMENTOS:**
+### MICROELEMENTOS
 
 Son tomados en menores cantidades.
 
@@ -1437,19 +1383,19 @@ Así, cuando las raíces absorben agua, están absorbiendo también los nutrient
 
 En la siguiente figura se puede ver la forma de disociarse de diferentes fertilizantes en contacto con el agua de riego y los cationes y aniones que quedan a disposición de la planta:
 
-![image11](./imgFun/UD3_image11.jpg)
+![La solución del suelos](./imgFun/UD3_image11.jpg){width=50%}
 
 **COMPLEJO ARCILLO-HÚMICO**
 
 Está **formado por las arcillas y la materia orgánica** que se encuentran en la fase sólida del suelo. Una de sus características más importantes es que posee propiedades químicas (carga negativa) lo que posibilita que los iones o nutrientes que nos encontremos en el suelo con cargas positivas: Ca++,  Mg++, K+, Na+, NH4+, H+ queden retenidos en su superficie.
 
-![image12](./imgFun/UD3_image12.jpg)
+![Complejo Arcillo-Húmico](./imgFun/UD3_image12.jpg){width=50%}
 
 A la capacidad de retener los iones en el suelo esta se le llama **poder adsorbente. **Si estos nutrientes no se quedaran fijadas en el complejo arcillo-húmico se perderían por el arrastre que origina la lluvia o el riego.
 
 Los suelos arcillosos y los francos son los que tiene una mejor capacidad de almacenaje de nutrientes; los suelos arenosos apenas retienen nutrientes. Un buen plan de abonados tiene que conocer el tipo de suelo en el que se va a implantar. En suelos arcillosos se pueden aportan más cantidades de fertilizante en cada aplicación, espaciándolos en el tiempo, y en los suelos arenosos debido a su poca capacidad de retención para la misma cantidad de abono total hay que aplicarla en pequeñas dosis a intervalos de tiempo más frecuentes.
 
-![image13](./imgFun/UD3_image13.png)
+![Poder absorvente](./imgFun/UD3_image13.png){width=50%}
 
 Los cationes retenidos por el complejo arcillo-húmico, están en equilibrio con los de la solución, dando lugar a un intercambio catiónico. La planta absorbe los elementos nutritivos de la solución del suelo y, cuando los absorbe, el complejo arcillo-húmico repone el elemento absorbido a la solución del suelo. Se conoce por la **capacidad de intercambio catiónico** a la cantidad total de cationes que pueden ser retenidos por unidad de masa del suelo y que pueden ser intercambiados. Se expresa en miliequivalentes/100 gr. de suelo seco (meq/100g). Según la textura la CIC es distinta:
 
@@ -1480,28 +1426,26 @@ El intervalo de pH comprendido entre 6-7 es el más adecuado para la asimilació
 
 La mayoría de los suelos se encuentran entre los rangos de 5–8,5. Los valores de pH medio y alto favorecen la actividad de los microorganismos del suelo.
 
-***               ******R******ango de pH de disponibilidad de nutrientes******                                             ******R******ango de pH  para ******suelos***
 
 
-![image14](./imgFun/UD3_image14.png)
+\Begin{figure}
+\centering
+\subfigure[de Disponibilidad de nutrientes]{\includegraphics[width=0.4\linewidth]{./imgFun/UD3_image15.png}}
+\subfigure[pra Suelos]{\includegraphics[width=0.4\linewidth]{./imgFun/UD3_image14.png}}
+\caption{Rango de pH}
+\End{figure}
 
-![image15](./imgFun/UD3_image15.png)
 
-*** 	******Ra******ngo de pH óptimo de cultiv******o******                ***
+|Rango de pH óptimo de cultivo|
+| :---: |
+|Pepino: 5,7-7,2|
+|Tomate: 5,8-7,2|
+|Patata: 5,0-5,8|
+|Pimiento: 6,3-7,8|
+|Naranjo: 6,0-7,5|
+|Almendro: 6,0-6,8|
 
-![image16](./imgFun/UD3_image16.png)
-
-*	Pepino: 5,7-7,2*
-
-*	**T**omate: 5,8-7,2*
-
-*	Patata: 5,0-5,8 *
-
-*	Pimiento: 6,3-7,8*
-
-*	Naranjo: 6,0-7,5*
-
-*	Almendro: 6,0-6,*8
+![Medidor](./imgFun/UD3_image16.png){width=50%}
 
 ### Conductividad eléctrica
 
@@ -1515,51 +1459,40 @@ Las unidades de medida más utilizadas son Milimho por centímetro (mmho/cm) y M
 
 **Saber la conductividad eléctrica del suelo agrícola es fundamental por varias razones**:
 
-- ******Calidad del suelo****: La conductividad eléctrica puede indicar la salinidad del suelo. Niveles altos de conductividad pueden señalar la presencia de sales disueltas en el suelo, lo cual puede afectar negativamente el crecimiento de las plantas.**
-
-- ******Gestión del riego****: Conocer la conductividad eléctrica ayuda a gestionar de manera eficiente el riego. Suelos con alta conductividad pueden requerir ajustes en la cantidad y frecuencia de riego para evitar acumulaciones de sales que afecten la absorción de nutrientes por las plantas.**
-
-- ******Diagnóstico de problemas****: Puede utilizarse como indicador de problemas de drenaje. Suelos con alta conductividad pueden estar mal drenados, lo que afecta la disponibilidad de oxígeno para las raíces y el crecimiento de las plantas.**
-
-- ******Monitoreo de la fertilidad****: La conductividad eléctrica puede estar relacionada con la disponibilidad de nutrientes en el suelo. Un monitoreo regular puede ayudar a ajustar los programas de fertilización para mantener niveles óptimos para el crecimiento de los cultivos.**
+- **Calidad del suelo**: La conductividad eléctrica puede indicar la salinidad del suelo. Niveles altos de conductividad pueden señalar la presencia de sales disueltas en el suelo, lo cual puede afectar negativamente el crecimiento de las plantas.
+- **Gestión del riego**: Conocer la conductividad eléctrica ayuda a gestionar de manera eficiente el riego. Suelos con alta conductividad pueden requerir ajustes en la cantidad y frecuencia de riego para evitar acumulaciones de sales que afecten la absorción de nutrientes por las plantas.
+- **Diagnóstico de problemas**: Puede utilizarse como indicador de problemas de drenaje. Suelos con alta conductividad pueden estar mal drenados, lo que afecta la disponibilidad de oxígeno para las raíces y el crecimiento de las plantas.
+- **Monitoreo de la fertilidad**: La conductividad eléctrica puede estar relacionada con la disponibilidad de nutrientes en el suelo. Un monitoreo regular puede ayudar a ajustar los programas de fertilización para mantener niveles óptimos para el crecimiento de los cultivos.
 
 En resumen, medir la conductividad eléctrica del suelo es una herramienta clave para entender su calidad, gestionar el riego de manera efectiva y asegurar condiciones óptimas para el crecimiento de los cultivos.
 
 #### Beneficios de las sales disueltas en el suelo:
 
-- ******Fuente de nutrientes esenciales****: Algunas sales contienen nutrientes esenciales para las plantas, como nitratos, fosfatos, sulfatos, calcio, magnesio y potasio. Estas sales en concentraciones adecuadas favorecen el crecimiento y desarrollo de los cultivos.**
+- **Fuente de nutrientes esenciales**: Algunas sales contienen nutrientes esenciales para las plantas, como nitratos, fosfatos, sulfatos, calcio, magnesio y potasio. Estas sales en concentraciones adecuadas favorecen el crecimiento y desarrollo de los cultivos.
+- **Regulación del equilibrio osmótico**: Una concentración adecuada de sales en el suelo ayuda a que las plantas absorban agua y nutrientes de manera eficiente.**
+- **Mejora de la estructura del suelo**: Ciertas sales, como el calcio en forma de yeso (sulfato de calcio), pueden mejorar la estructura del suelo, evitando su compactación y facilitando el desarrollo radicular.
 
-- ******Regulación del equilibrio osmótico****: Una concentración adecuada de sales en el suelo ayuda a que las plantas absorban agua y nutrientes de manera eficiente.**
+#### Perjuicios del exceso de sales en el suelo
 
-- ******Mejora de la estructura del suelo****: Ciertas sales, como el calcio en forma de yeso (sulfato de calcio), pueden mejorar la estructura del suelo, evitando su compactación y facilitando el desarrollo radicular.**
-
-### Perjuicios del exceso de sales en el suelo
-
-- ******Problemas de salinidad****: Si la cantidad de sales es demasiado alta, las plantas tienen dificultades para absorber agua, lo que puede provocar ********estrés hídrico y deshidratación**** (aunque el suelo esté húmedo).**
-
-- ******Toxicidad para las plantas****: Algunas sales, como los cloruros y sodios en exceso, pueden ser tóxicas y afectar el crecimiento, reduciendo la producción y calidad del cultivo.**
-
-- ******Compactación y deterioro del suelo****: Exceso de sodio en el suelo puede provocar ********dispersión de partículas****, reduciendo la infiltración del agua y aumentando la compactación.**
-
-- ******Dificultad para la germinación****: Semillas y plántulas jóvenes pueden verse afectadas por la salinidad, impidiendo su correcta germinación y establecimiento.**
+- **Problemas de salinidad**: Si la cantidad de sales es demasiado alta, las plantas tienen dificultades para absorber agua, lo que puede provocar estrés hídrico y deshidratación (aunque el suelo esté húmedo).
+- **Toxicidad para las plantas**: Algunas sales, como los cloruros y sodios en exceso, pueden ser tóxicas y afectar el crecimiento, reduciendo la producción y calidad del cultivo.
+- **Compactación y deterioro del suelo**: Exceso de sodio en el suelo puede provocar dispersión de partículas, reduciendo la infiltración del agua y aumentando la compactación.
+- **Dificultad para la germinación**: Semillas y plántulas jóvenes pueden verse afectadas por la salinidad, impidiendo su correcta germinación y establecimiento.**
 
 #### Conclusión
 
-Las sales en el suelo son beneficiosas en concentraciones adecuadas, ya que aportan nutrientes esenciales.
+**Las sales en el suelo son beneficiosas en concentraciones adecuadas**, ya que aportan nutrientes esenciales.
 
 El exceso de sales es perjudicial, ya que genera problemas de salinidad y toxicidad para las plantas.
 
 ¿Cómo evitar problemas de salinidad?
 
 - Monitorear la conductividad eléctrica del suelo regularmente.
-
 - Implementar buenas prácticas de riego para evitar acumulación de sales.
-
 - Aplicar materia orgánica para mejorar la estructura del suelo y su capacidad de retención de agua.
-
 - Usar drenaje adecuado en zonas con riesgo de salinización.
 
-#### Tabla de Conductividad Eléctrica en Suelos Agrícolas
+
 
 | Conductividad Eléctrica (dS/m o mS/cm) | Nivel de salinidad | Impacto en las plantas |
 | --- | --- | --- |
@@ -1569,6 +1502,7 @@ El exceso de sales es perjudicial, ya que genera problemas de salinidad y toxici
 | 2 - 4 | Moderadamente salino | Pérdida de rendimiento en cultivos sensibles. Se requieren estrategias de manejo. |
 | 4 - 8 | Altamente salino | Solo cultivos tolerantes pueden crecer bien. Es necesario lavado con riego abundante. |
 | > 8 | Fuertemente salino | La mayoría de los cultivos no pueden crecer. Se necesita una corrección urgente del suelo. |
+Table: Tabla de Conductividad Eléctrica en Suelos Agrícolas
 
 ### Salinidad.
 
@@ -1583,25 +1517,17 @@ Los dos grandes problemas que producen la concentración de sales en el suelo so
 Las sales más solubles en el suelo son aquellas que se disuelven fácilmente en agua y pueden afectar la conductividad eléctrica y la salinidad. A continuación, mencionamos las principales:
 
 - Cloruro de sodio (NaCl) - Sal común: Muy soluble en agua. Es una de las sales más problemáticas en suelos salinos y afecta la absorción de agua por las plantas (estrés osmótico).
-
 - Sulfato de sodio (Na₂SO₄): Alta solubilidad. Puede aumentar la salinidad del suelo sin formar costras superficiales.
-
 - Cloruro de calcio (CaCl₂): Extremadamente soluble. Se usa en algunos suelos para mejorar la estructura y desplazar sodio perjudicial.
-
 - Nitrato de sodio (NaNO₃) y nitrato de calcio (Ca(NO₃)₂): Altamente solubles. Fuentes de nitrógeno para fertilización, pero pueden lixiviarse fácilmente con el riego.
-
 - Sulfato de magnesio (MgSO₄) - Sal de Epsom: Alta solubilidad. Se usa como fertilizante de magnesio en suelos deficientes.
-
 - Bicarbonato de sodio (NaHCO₃): Moderada solubilidad. Puede aumentar el pH del suelo y afectar la disponibilidad de nutrientes
-
 - Sulfato de potasio (K₂SO₄) y cloruro de potasio (Kcl): Altamente solubles. Usados como fertilizantes de potasio, pero en exceso pueden aumentar la salinidad.
 
 #### Impacto en los cultivos
 
 - Las sales de sodio (NaCl, Na₂SO₄, NaHCO₃) son las más dañinas porque afectan la absorción de agua y deterioran la estructura del suelo.
-
 - Las sales de calcio y magnesio pueden ser beneficiosas en suelos con problemas de sodio, ayudando a mejorar la estructura del suelo.
-
 - Las sales de nitratos y sulfatos suelen ser nutrientes esenciales, pero su exceso puede causar contaminación y lixiviación.
 
 Si un suelo tiene una alta acumulación de sales solubles, es recomendable realizar lavados con agua de buena calidad, mejorar el drenaje y evitar el riego con aguas salinas.
@@ -1610,7 +1536,7 @@ Si un suelo tiene una alta acumulación de sales solubles, es recomendable reali
 
 Otro elemento que tiene un papel fundamental en la estructura del suelo es el ión** calcio (Ca2+).** El calcio colabora junto con el humus a la unión de las partículas del suelo.
 
-El **sodio ****(Na+)** es un elemento dispersante en el suelo, rompe la estructura del suelo, los agregados, de tal forma que puede llegar a formarse una capa impermeable ya que los poros del suelo van taponándose.
+El **sodio (Na+)** es un elemento dispersante en el suelo, rompe la estructura del suelo, los agregados, de tal forma que puede llegar a formarse una capa impermeable ya que los poros del suelo van taponándose.
 
 **Se dice que el calcio agrega mientras que el sodio dispersa el suelo.**
 
@@ -1618,7 +1544,7 @@ Los suelos sódicos son suelos asfixiantes, y generalmente tienen un pH superior
 
 La cantidad de sodio que tiene un suelo se mide por el Porcentaje de Sodio Intercambiable (P.S.I.):
 
-![image17](./imgFun/UD3_image17.png)
+![Cantidad de Sodio](./imgFun/UD3_image17.png)
 
 El valor de PSI debe ser lo más bajo posible, aunque se consideran aceptables valores por debajo del 10%. Hay que evitar que el PSI sea superior al 15% ya que a partir de este valor el suelo se considera suelo sódico o salino-sódico y presenta grandes problemas de permeabilidad, asfixiante y muy difícil de recuperar.
 
@@ -1638,75 +1564,49 @@ Los microorganismos son organismos microscópicos que no pueden observarse a sim
 
 Existen diversas categorías de microorganismos en el suelo, pero los más relevantes en los sistemas agrícolas son:
 
-- ******Bacterias****: Intervienen en la descomposición de la materia orgánica, la fijación del nitrógeno atmosférico y en procesos como la nitrificación y desnitrificación. ****Ej:**
+- **Bacterias**: Intervienen en la descomposición de la materia orgánica, la fijación del nitrógeno atmosférico y en procesos como la nitrificación y desnitrificación. Ej:
+  - Las bacterias del género **Rhizobium** establecen una simbiosis con las raíces de las leguminosas (como la alfalfa o los guisantes), formando nódulos radiculares donde fijan nitrógeno, transformándolo en formas asimilables por las plantas.
+  - **Nitrosomonas** y **Nitrobacter** participan en la conversión del amonio en nitratos, proceso fundamental para la fertilización del suelo.
+- **Hongos**: Contribuyen a la degradación de compuestos más complejos, como la celulosa y la lignina. Algunos forman relaciones simbióticas con las raíces de las plantas (micorrizas), mejorando la absorción de agua y nutrientes. **Ej:**
+  - **Los hongos micorrícicos**, como *Glomus intraradices*, establecen simbiosis con muchas especies agrícolas (trigo, maíz, árboles frutales), aumentando la absorción de fósforo y protegiendo contra patógenos del suelo. 
+- **Algas**: Aunque menos conocidas, las algas del suelo participan en la producción de materia orgánica y en la estabilización de la estructura del suelo. **Ej:**
+  - Las cianobacterias del género **Nostoc** pueden fijar nitrógeno en suelos húmedos, mejorando su fertilidad, especialmente en cultivos de arroz en zonas encharcadas. 
+- **Actinomicetos**: Son microorganismos intermedios entre bacterias y hongos que contribuyen a la descomposición de materia orgánica y a la producción de antibióticos naturales.
+  - **Streptomyces** es un género de actinomicetos que degrada compuestos complejos y produce antibióticos naturales que ayudan a controlar patógenos del suelo. 
 
-- Las bacterias del género Rhizobium establecen una simbiosis con las raíces de las leguminosas (como la alfalfa o los guisantes), formando nódulos radiculares donde fijan nitrógeno, transformándolo en formas asimilables por las plantas.
-
-- ***Nitrosomonas** y ****Nitrobacter** participan en la conversión del amonio en nitratos, proceso fundamental para la fertilización del suelo. *
-
-- ******Hongos****: Contribuyen a la degradación de compuestos más complejos, como la celulosa y la lignina. Algunos forman relaciones simbióticas con las raíces de las plantas (micorrizas), mejorando la absorción de agua y nutrientes. ****Ej:**
-
-- **Los hongos micorrícicos, como ********Glomus intraradices****, establecen simbiosis con muchas especies agrícolas (trigo, maíz, árboles frutales), aumentando la absorción de fósforo y protegiendo contra patógenos del suelo. **
-
-- ******Algas****: Aunque menos conocidas, las algas del suelo participan en la producción de materia orgánica y en la estabilización de la estructura del suelo. ****Ej:**
-
-- **Las cianobacterias del género ********Nostoc**** pueden fijar nitrógeno en suelos húmedos, mejorando su fertilidad, especialmente en cultivos de arroz en zonas encharcadas. **
-
-- ******Actinomicetos****: Son microorganismos intermedios entre bacterias y hongos que contribuyen a la descomposición de materia orgánica y a la producción de antibióticos naturales. **
-
-- *********Streptomyces****** es un género de actinomicetos que degrada compuestos complejos y produce antibióticos naturales que ayudan a controlar patógenos del suelo. ***
-
-La mayor parte de los microorganismos del suelo se concentran en los primeros 60 cm, especialmente en el Horizonte A, donde la materia orgánica es más abundante y las condiciones de humedad y oxígeno favorecen su desarrollo.
+La mayor parte de los microorganismos del suelo se concentran en los primeros 60 cm, especialmente en el **Horizonte A**, donde la materia orgánica es más abundante y las condiciones de humedad y oxígeno favorecen su desarrollo.
 
 Las principales funciones de los microorganismos en el suelo incluyen:
 
-- ******Descomposición de la materia orgánica****, transformando residuos vegetales y animales en nutrientes disponibles para las plantas. ****Ej: **
-
-- *********Bacillus subtilis****** es una bacteria que descompone restos de cultivos en compost, liberando nutrientes esenciales. ***
-
-- *********Participación en el ciclo de nutrientes******, facilitando procesos clave como la fijación de nitrógeno, la mineralización del fósforo y la formación de humus. ******Ej:***
-
-- *********Azotobacter****** es una bacteria de vida libre que fija nitrógeno en suelos bien aireados, sin necesidad de asociarse con raíces. ***
-
-- ******Contribución a la formación de la estructura del suelo****, favoreciendo la agregación de partículas y la estabilidad de los poros, lo que mejora la aireación y la retención de agua. ****Ej:**
-
-- **Los exudados de bacterias y hongos actúan como "pegamento biológico", formando agregados estables que mejoran la estructura del suelo. **
+- **Descomposición de la materia orgánica**, transformando residuos vegetales y animales en nutrientes disponibles para las plantas. **Ej:**
+  - **Bacillus subtilis** es una bacteria que descompone restos de cultivos en compost, liberando nutrientes esenciales. 
+- **Participación en el ciclo de nutrientes**, facilitando procesos clave como la fijación de nitrógeno, la mineralización del fósforo y la formación de humus. **Ej:**
+  - **Azotobacter** es una bacteria de vida libre que fija nitrógeno en suelos bien aireados, sin necesidad de asociarse con raíces. 
+- **Contribución a la formación de la estructura del suelo**, favoreciendo la agregación de partículas y la estabilidad de los poros, lo que mejora la aireación y la retención de agua. **Ej:**
+  - Los exudados de bacterias y hongos actúan como "pegamento biológico", formando agregados estables que mejoran la estructura del suelo.*
 
 ### Animales del suelo.
 
 El suelo alberga una gran diversidad de animales que, aunque menos numerosos que los microorganismos, cumplen funciones esenciales en la dinámica del ecosistema edáfico. Estos organismos se pueden clasificar en diferentes grupos según su tamaño y función:
 
-- ******Nematodos****: Gusanos microscópicos que participan en la descomposición de materia orgánica y pueden tener funciones beneficiosas o perjudiciales, dependiendo de su tipo (algunos son parásitos de plantas). ****Ej:**
-
-- *********Steinernema carpocapsae****** es un nematodo utilizado en control biológico porque parasita insectos plaga en cultivos hortícolas. ***
-
-- *********Artrópodos******: Insectos, ácaros y ciempiés que fragmentan los restos orgánicos y regulan las poblaciones microbianas mediante la depredación. ******Ej:***
-
-- Los colémbolos (como Folsomia candida) descomponen restos vegetales y estimulan la actividad microbiana.
-
-- Los escarabajos estercoleros (Scarabaeus) entierran estiércol, facilitando su incorporación al suelo y mejorando su fertilidad.
-
-- *********Lombrices de tierra******: Organismos clave en la formación del suelo fértil, ya que favorecen la aireación, la mezcla de partículas y la mineralización de nutrientes a través de su actividad digestiva. ******Ej:***
-
-- *********Eisenia fetida****** es una lombriz utilizada en vermicompostaje, produciendo humus rico en nutrientes a partir de materia orgánica. ***
-
-- ******Mamíferos del suelo****: Animales como topos y ratones que excavan galerías, mejorando la porosidad del suelo y facilitando la infiltración de agua y oxígeno. ****Ej:**
-
-- **Los topos (********Talpa europaea****) ayudan a controlar poblaciones de insectos dañinos al alimentarse de ellos. **
+- **Nematodos**: Gusanos microscópicos que participan en la descomposición de materia orgánica y pueden tener funciones beneficiosas o perjudiciales, dependiendo de su tipo (algunos son parásitos de plantas). **Ej:**
+  - **Steinernema carpocapsae** es un nematodo utilizado en control biológico porque parasita insectos plaga en cultivos hortícolas.
+- **Artrópodos**: Insectos, ácaros y ciempiés que fragmentan los restos orgánicos y regulan las poblaciones microbianas mediante la depredación. **Ej:**
+  - Los colémbolos (como Folsomia candida) descomponen restos vegetales y estimulan la actividad microbiana.
+  - Los escarabajos estercoleros (Scarabaeus) entierran estiércol, facilitando su incorporación al suelo y mejorando su fertilidad.
+- **Lombrices de tierra**: Organismos clave en la formación del suelo fértil, ya que favorecen la aireación, la mezcla de partículas y la mineralización de nutrientes a través de su actividad digestiva. **Ej:**
+  - **Eisenia fetida** es una lombriz utilizada en vermicompostaje, produciendo humus rico en nutrientes a partir de materia orgánica. 
+- **Mamíferos del suelo**: Animales como topos y ratones que excavan galerías, mejorando la porosidad del suelo y facilitando la infiltración de agua y oxígeno. **Ej:**
+  - **Los topos (Talpa europaea)** ayudan a controlar poblaciones de insectos dañinos al alimentarse de ellos.
 
 Las funciones más importantes que los animales del suelo desempeñan incluyen:
 
-- ******Incorporación de materia orgánica****, contribuyendo a su descomposición y transformación en humus.**** ****Ej: **
-
-- **Las lombrices digieren restos orgánicos y los convierten en humus, mejorando la fertilidad del suelo. **
-
-- ******Aireación y mejora de la estructura del suelo****, mediante la excavación de túneles y madrigueras, lo que facilita el movimiento del agua y los gases. ****Ej: **
-
-- **Los topos crean galerías que favorecen la infiltración del agua, evitando encharcamientos. **
-
-- ******Control de poblaciones microbianas y de otros organismos****, a través de interacciones tróficas que regulan el equilibrio del ecosistema.**
-
-- **Los escarabajos depredadores (********Carabidae****) ayudan a controlar plagas al alimentarse de larvas de insectos perjudiciales. **
+- **Incorporación de materia orgánica**, contribuyendo a su descomposición y transformación en humus.Ej:
+  - Las lombrices digieren restos orgánicos y los convierten en humus, mejorando la fertilidad del suelo. 
+- **Aireación y mejora de la estructura del suelo**, mediante la excavación de túneles y madrigueras, lo que facilita el movimiento del agua y los gases. Ej:
+  - Los topos crean galerías que favorecen la infiltración del agua, evitando encharcamientos.
+- **Control de poblaciones microbianas y de otros organismos**, a través de interacciones tróficas que regulan el equilibrio del ecosistema.
+  - Los escarabajos depredadores (Carabidae) ayudan a controlar plagas al alimentarse de larvas de insectos perjudiciales.
 
 ## ANÁLISIS DE SUELOS.
 
@@ -1714,18 +1614,14 @@ Los análisis de suelos proporcionan información sobre las propiedades físicas
 
 Podemos considerar que la utilidad de los análisis de suelos se basa en cuatro razones fundamentales:
 
-- **Aportar la dosis adecuada de fertilizantes****: no hacer aportes en exceso sino en la dosis justa con lo que conseguiremos un ahorro económico y, una reducción del impacto ambiental, evitando al acumulación y contaminación innecesaria que provoca el exceso de abonos.**
-
-- **Evitar deficiencias**** por falta de un nutrientes en concreto o por desequilibrios.**
-
-- **Aumentar la productividad y la calidad de las cosechas****, como consecuencia de una fertilización ajustada y equilibrada.**
-
-- **Aumentar la rentabilidad****, derivada del ahorro de fertilizantes y de la mayor productividad.   **
+- **Aportar la dosis adecuada de fertilizantes**: no hacer aportes en exceso sino en la dosis justa con lo que conseguiremos un ahorro económico y, una reducción del impacto ambiental, evitando al acumulación y contaminación innecesaria que provoca el exceso de abonos.**
+- **Evitar deficiencias** por falta de un nutrientes en concreto o por desequilibrios.
+- **Aumentar la productividad y la calidad de las cosechas**, como consecuencia de una fertilización ajustada y equilibrada.**
+- **Aumentar la rentabilidad**, derivada del ahorro de fertilizantes y de la mayor productividad. 
 
 Como mínimo se debería realizar un análisis de suelos en los siguientes casos:
 
 - Antes de la implantación de un nuevo cultivo, para conocer el estado de nutrientes del suelo y poder realizar una fertilización que ajuste las necesidades de nutrición que se van a producir.
-
 - Para cultivos extensivos cada 3-4 años, para cultivos intensivos cada año, para cultivo frutales cada 1-3 años.
 
 ### TOMA DE MUESTRAS EN CAMPO
@@ -1735,13 +1631,9 @@ Es la parte más importante y más difícil del análisis de suelos. El análisi
 Para que una muestra sea útil debe ser representativa de la parcela a analizar. Para ello se deben seguir las siguientes normas:
 
 - La parcela a estudiar debe dividirse en zonas de igual color, textura, topografía, con el mismo tipo de cultivo y plan de abonados. Un ejemplo: si en una misma parcela hemos sembrado dos cultivos diferentes, habrá que establecer dos zonas de muestreo.
-
 - Evitar las zonas colindantes a caminos, acequias, zonas de paso y alimentación de ganado.
-
 - Por lo general, aunque la parcela fuera muy homogénea, cada muestra de suelo no debería representar una superficie mayor de 2 Ha. (incluso menos, en producciones muy intensivas).
-
 - Las submuestras se toman al azar se recorre toda la finca en zigzag y se marcan los puntos de muestreo, evitando siempre las zonas que no son representativas.
-
 - El número de muestras va a depender de la heterogeneidad de la parcela. Cada muestra de suelo está formada por varias submuestras, se aconseja un mínimo 10-20 submuestras para parcelas homogéneas de 1 Ha.
 
 Una vez realizadas todas las submuestras se mezclan bien y se recoge aproximadamente un kilogramo de tierra total. Lo que sobra se tira. El Kg. de muestra será el que enviaremos al laboratorio para su análisis, previamente lo habremos identificado indicando que zona representa.
@@ -1756,25 +1648,20 @@ El análisis de suelos es una herramienta esencial para conocer las característ
 
 El análisis físico del suelo se centra en la evaluación de su estructura y textura, parámetros fundamentales que influyen en su capacidad de retención de agua, aireación y facilidad para el desarrollo de las raíces.
 
-##### ******Determinación de la textura**
+##### Determinación de la textura
 
 La textura del suelo se refiere a la proporción de partículas minerales de diferente tamaño:
 
-- ******Arena**** (granos gruesos, entre 0.05 y 2 mm de diámetro).**
-
-- ******Limo**** (partículas intermedias, entre 0.002 y 0.05 mm).**
-
-- ******Arcilla**** (las partículas más finas, menores a 0.002 mm).**
+- **Arena** (granos gruesos, entre 0.05 y 2 mm de diámetro).
+- **Limo** (partículas intermedias, entre 0.002 y 0.05 mm).
+- **Arcilla** (las partículas más finas, menores a 0.002 mm).
 
 Esta información puede expresarse en el análisis de dos formas:
 
-- ******Porcentajes de arena, limo y arcilla****.**
-
-- Ejemplo: Un suelo puede clasificarse como 50% arena, 30% limo y 20% arcilla.
-
-- ******Denominación según el triángulo textural del USDA****.**
-
-- Ejemplo: Un suelo con 30% arcilla, 40% limo y 30% arena se clasifica como franco-arcilloso.
+- **Porcentajes de arena, limo y arcilla**.
+  - Ejemplo: Un suelo puede clasificarse como 50% arena, 30% limo y 20% arcilla.
+- **Denominación según el triángulo textural del USDA**.
+  - Ejemplo: Un suelo con 30% arcilla, 40% limo y 30% arena se clasifica como franco-arcilloso.
 
 La textura del suelo influye directamente en la elección del sistema de riego, la fertilización y el manejo del cultivo. Por ejemplo, los suelos arenosos requieren riegos más frecuentes, mientras que los arcillosos retienen más agua, pero pueden presentar problemas de drenaje.
 
@@ -1782,9 +1669,8 @@ La textura del suelo influye directamente en la elección del sistema de riego, 
 
 El análisis químico del suelo evalúa la disponibilidad de nutrientes, la presencia de sales solubles y el pH, factores clave para la nutrición vegetal. Dependiendo de los objetivos, se pueden realizar dos tipos principales de análisis:
 
-- ******Análisis de fertilidad**
-
-- ******Análisis de extracto saturado**
+- **Análisis de fertilidad**
+- **Análisis de extracto saturado**
 
 La interpretación de los análisis debe realizarse con el apoyo de asesoramiento técnico. Los resultados se comparan con tablas de referencia para determinar la disponibilidad de nutrientes y tomar decisiones sobre fertilización y manejo del suelo.
 
@@ -1792,31 +1678,27 @@ La interpretación de los análisis debe realizarse con el apoyo de asesoramient
 
 Este análisis permite conocer la capacidad del suelo para suministrar los nutrientes esenciales para el crecimiento de las plantas. Sus principales objetivos son:
 
-- ******Detectar desequilibrios nutricionales**** que puedan limitar el desarrollo del cultivo.**
+- **Detectar desequilibrios nutricionales** que puedan limitar el desarrollo del cultivo.
+- **Conocer la fertilidad del suelo** cuando no existen datos previos (por ejemplo, al adquirir una nueva finca o en suelos recientemente preparados para cultivo).
+- **Calcular el abonado** necesario para optimizar la producción y evitar excesos de fertilización.**
 
-- ******Conocer la fertilidad del suelo**** cuando no existen datos previos (por ejemplo, al adquirir una nueva finca o en suelos recientemente preparados para cultivo).**
+El análisis de fertilidad mide macronutrientes como **nitrógeno (N), fósforo (P) y potasio (K)**, así como micronutrientes esenciales como **hierro (Fe), zinc (Zn) y manganeso (Mn)**.
 
-- ******Calcular el abonado**** necesario para optimizar la producción y evitar excesos de fertilización.**
-
-El análisis de fertilidad mide macronutrientes como nitrógeno (N), fósforo (P) y potasio (K), así como micronutrientes esenciales como hierro (Fe), zinc (Zn) y manganeso (Mn).
-
-###### Ejemplo: Si un análisis indica niveles bajos de fósforo, puede recomendarse la aplicación de fosfato diamónico (DAP) o superfosfato triple, dependiendo del tipo de suelo y cultivo.
+**Ejemplo**: Si un análisis indica niveles bajos de fósforo, puede recomendarse la aplicación de fosfato diamónico (DAP) o superfosfato triple, dependiendo del tipo de suelo y cultivo.
 
 ##### Análisis de extracto saturado
 
 Este análisis evalúa los elementos disueltos en la solución del suelo, que están directamente disponibles para la planta. Se utilizan principalmente en suelos con problemas de salinidad o en cultivos de alto valor donde se requiere un control preciso de la fertilización.
 
-###### Objetivos del análisis de extracto saturado:
+Objetivos del análisis de extracto saturado:
 
-- ******Control de la salinidad****, evitando daños por acumulación de sales en suelos o por riego con aguas salinas.**
-
-- ******Manejo adecuado de la fertilización****, ajustando la disponibilidad de nutrientes según el crecimiento del cultivo.**
-
-- ******Identificación de desequilibrios nutricionales****, asegurando un desarrollo óptimo de la planta.**
+- **Control de la salinidad**, evitando daños por acumulación de sales en suelos o por riego con aguas salinas.**
+- **Manejo adecuado de la fertilización**, ajustando la disponibilidad de nutrientes según el crecimiento del cultivo.**
+- **Identificación de desequilibrios nutricionales**, asegurando un desarrollo óptimo de la planta.
 
 En este análisis se determinan pH y conductividad eléctrica (CE), parámetros clave para evaluar la calidad del suelo:
 
-#### Clasificación de los suelos según el pH:
+
 
 | **tipo de suelo** | **valor de ph** |
 | --- | --- |
@@ -1825,10 +1707,10 @@ En este análisis se determinan pH y conductividad eléctrica (CE), parámetros 
 | Neutro | 6.6-7.5 |
 | Alcalino | 7.6-8.5 |
 | Muy alcalino | > 8.6 |
+Table: Clasificación de los suelos según el pH
 
-###### Ejemplo: Si un suelo presenta un pH de 5.2 (muy ácido), es recomendable la aplicación de cal agrícola (carbonato de calcio) para elevar el pH y mejorar la disponibilidad de nutrientes como fósforo y calcio.
+**Ejemplo**: Si un suelo presenta un pH de 5.2 (muy ácido), es recomendable la aplicación de cal agrícola (carbonato de calcio) para elevar el pH y mejorar la disponibilidad de nutrientes como fósforo y calcio.
 
-#### Clasificación de los suelos según la conductividad eléctrica (CE) en el extracto saturado:
 
 | **tipo de suelo** | **CE en ms/cm** |
 | --- | --- |
@@ -1837,10 +1719,11 @@ En este análisis se determinan pH y conductividad eléctrica (CE), parámetros 
 | Moderadamente salino | 4-8 |
 | Fuertemente salino | 8-16 |
 | Muy fuertemente salino |  16 |
+Table: Clasificación de los suelos según la conductividad eléctrica (CE) en el extracto saturado
 
-###### Ejemplo: Si un suelo tiene una CE de 9 mS/cm (fuertemente salino), es recomendable aplicar un riego de lixiviación para arrastrar las sales fuera de la zona radicular y evitar problemas de toxicidad en las plantas.
+**Ejemplo**: Si un suelo tiene una CE de 9 mS/cm (fuertemente salino), es recomendable aplicar un riego de lixiviación para arrastrar las sales fuera de la zona radicular y evitar problemas de toxicidad en las plantas.
 
-#### Determinación de elementos en el extracto saturado y valores de referencia: Los valores de referencia para los principales elementos en solución se expresan en meq/L o ppm y ayudan a interpretar la disponibilidad de nutrientes.
+- Determinación de elementos en el extracto saturado y valores de referencia: Los valores de referencia para los principales elementos en solución se expresan en meq/L o ppm y ayudan a interpretar la disponibilidad de nutrientes.
 
 Las determinaciones de los elementos que se realizan y los valores de referencia son los siguientes, expresados en meq/l:
 
