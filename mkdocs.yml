@@ -6,8 +6,8 @@ theme: mkdocs
 markdown_extensions:
   - admonition
 nav:
-  - Inicio: FundamentosAgronomicos.md
-  #- Inicio: index.md
+  #- Inicio: FundamentosAgronomicos.md
+  - Inicio: index.md
   - UD 1 Identificación de las especies vegetales:
     - Taxonomía Vegetal: FA_UD1_Taxonomia.md
     - Célula Vegetal: FA_UD1_LaCelulaVegetal.md
