@@ -9,11 +9,11 @@ nav:
   - Inicio: Fundamentos Agronomicos.md
   #- Inicio: index.md
   - UD 1 Identificación de las especies vegetales:
-    - Taxonomía Vegetal: FA_UD1_Taxonomía Vegetal.md
-    - Célula Vegetal: FA_UD1_La Célula Vegetal.md
-    - Tejidos Vegetales: FA_UD1_Los Tejidos Vegetales.md
+    - Taxonomía Vegetal: FA_UD1_Taxonomia.md
+    - Célula Vegetal: FA_UD1_LaCelulaVegetal.md
+    - Tejidos Vegetales: FA_UD1_LosTejidosVegetales.md
     - Morfología y Estrucutra de las Plantas: FA_UD1_Morfologia.md
-    - Procesos Fisiológicos: FA_UD1_Los Procesos.md
+    - Procesos Fisiológicos: FA_UD1_LosProcesos.md
   - UD 2 Características del clima y microclima: 
     - Clima y Microclima: FA_UD2_Clima.md
     - Elementos Climáticos: FA_UD2_Elemetos.md
@@ -22,7 +22,7 @@ nav:
     - Mapas Meteorológicos: FA_UD2_Mapas.md
     - Influencias de las actividades agropecuarias en el clima: FA_UD2_Influencia.md
   - UD 3 El Suelo:
-    - El suelo: FA_UD3_El suelo.md
+    - El suelo: FA_UD3_ElSuelo.md
     - El perfil del suelo: FA_UD3_Perfil.md
     - Propiedades Físicas del suelo: FA_UD3_PropFisicas.md
     - Propiedades Químicas del suelo: FA_UD3_PropQuimicas.md
